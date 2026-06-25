@@ -12,7 +12,7 @@
       "Green",
       "Orange"
     ],
-    "emoji": "\ud83c\udfa8",
+    "emoji": "🎨",
     "image": null
   },
   {
@@ -28,7 +28,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\udcc5",
+    "emoji": "📅",
     "image": null
   },
   {
@@ -44,7 +44,7 @@
       "Venus",
       "Jupiter"
     ],
-    "emoji": "\ud83c\udf0d",
+    "emoji": "🌍",
     "image": null
   },
   {
@@ -60,7 +60,7 @@
       "Paris",
       "Sydney"
     ],
-    "emoji": "\ud83c\udfd9\ufe0f",
+    "emoji": "🏙️",
     "image": null
   },
   {
@@ -76,7 +76,7 @@
       "107",
       "109"
     ],
-    "emoji": "\ud83d\udd22",
+    "emoji": "🔢",
     "image": null
   },
   {
@@ -92,7 +92,7 @@
       "Helium",
       "Carbon dioxide"
     ],
-    "emoji": "\ud83e\uddea",
+    "emoji": "🧪",
     "image": null
   },
   {
@@ -101,14 +101,14 @@
     "level": "Easy",
     "type": "text",
     "prompt": "Water freezes at what temperature Celsius?",
-    "answer": "0\u00b0C",
+    "answer": "0°C",
     "options": [
-      "0\u00b0C",
-      "10\u00b0C",
-      "50\u00b0C",
-      "100\u00b0C"
+      "0°C",
+      "10°C",
+      "50°C",
+      "100°C"
     ],
-    "emoji": "\u2744\ufe0f",
+    "emoji": "❄️",
     "image": null
   },
   {
@@ -124,7 +124,7 @@
       "Magnetism",
       "Buoyancy"
     ],
-    "emoji": "\ud83e\ude90",
+    "emoji": "🪐",
     "image": null
   },
   {
@@ -140,7 +140,7 @@
       "Cell wall",
       "Cytoplasm"
     ],
-    "emoji": "\ud83d\udd2c",
+    "emoji": "🔬",
     "image": null
   },
   {
@@ -156,7 +156,7 @@
       "Tn",
       "Tg"
     ],
-    "emoji": "\u2697\ufe0f",
+    "emoji": "⚗️",
     "image": null
   },
   {
@@ -172,7 +172,7 @@
       "Tiger",
       "Giraffe"
     ],
-    "emoji": "\ud83e\udd81",
+    "emoji": "🦁",
     "image": null
   },
   {
@@ -188,7 +188,7 @@
       "Silk",
       "Wax only"
     ],
-    "emoji": "\ud83d\udc1d",
+    "emoji": "🐝",
     "image": null
   },
   {
@@ -204,7 +204,7 @@
       "Germination",
       "Pollination"
     ],
-    "emoji": "\ud83c\udf3f",
+    "emoji": "🌿",
     "image": null
   },
   {
@@ -220,7 +220,7 @@
       "Rainforest",
       "Desert"
     ],
-    "emoji": "\ud83c\udfd4\ufe0f",
+    "emoji": "🏔️",
     "image": null
   },
   {
@@ -236,7 +236,7 @@
       "Blue whale",
       "Baobab forest"
     ],
-    "emoji": "\ud83d\udc20",
+    "emoji": "🐠",
     "image": null
   },
   {
@@ -252,7 +252,7 @@
       "5",
       "8"
     ],
-    "emoji": "\ud83c\udfb8",
+    "emoji": "🎸",
     "image": null
   },
   {
@@ -268,7 +268,7 @@
       "Drum kit",
       "Trumpet"
     ],
-    "emoji": "\ud83c\udfb9",
+    "emoji": "🎹",
     "image": null
   },
   {
@@ -276,7 +276,7 @@
     "subject": "Music",
     "level": "Medium",
     "type": "text",
-    "prompt": "Who sang \u201cThriller\u201d?",
+    "prompt": "Who sang “Thriller”?",
     "answer": "Michael Jackson",
     "options": [
       "Michael Jackson",
@@ -284,7 +284,7 @@
       "Elton John",
       "Stevie Wonder"
     ],
-    "emoji": "\ud83c\udfa4",
+    "emoji": "🎤",
     "image": null
   },
   {
@@ -300,7 +300,7 @@
       "Pitch",
       "Harmony"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -316,7 +316,7 @@
       "Mozart",
       "Handel"
     ],
-    "emoji": "\ud83c\udfbb",
+    "emoji": "🎻",
     "image": null
   },
   {
@@ -332,7 +332,7 @@
       "10",
       "12"
     ],
-    "emoji": "\u26bd",
+    "emoji": "⚽",
     "image": null
   },
   {
@@ -348,7 +348,7 @@
       "Squash",
       "Table tennis"
     ],
-    "emoji": "\ud83c\udff8",
+    "emoji": "🏸",
     "image": null
   },
   {
@@ -364,7 +364,7 @@
       "A try",
       "An ace"
     ],
-    "emoji": "\ud83c\udfcf",
+    "emoji": "🏏",
     "image": null
   },
   {
@@ -380,7 +380,7 @@
       "Sprint",
       "Decathlon"
     ],
-    "emoji": "\ud83c\udfc3",
+    "emoji": "🏃",
     "image": null
   },
   {
@@ -388,7 +388,7 @@
     "subject": "Sport",
     "level": "Hard",
     "type": "text",
-    "prompt": "What sport is associated with the America\u2019s Cup?",
+    "prompt": "What sport is associated with the America’s Cup?",
     "answer": "Sailing",
     "options": [
       "Sailing",
@@ -396,7 +396,7 @@
       "Tennis",
       "Cycling"
     ],
-    "emoji": "\u26f5",
+    "emoji": "⛵",
     "image": null
   },
   {
@@ -412,7 +412,7 @@
       "South Korea",
       "Switzerland"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/gb.svg"
   },
   {
@@ -428,7 +428,7 @@
       "Poland",
       "Vietnam"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/fr.svg"
   },
   {
@@ -444,7 +444,7 @@
       "Poland",
       "Australia"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/de.svg"
   },
   {
@@ -460,7 +460,7 @@
       "Vietnam",
       "Mexico"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/it.svg"
   },
   {
@@ -476,7 +476,7 @@
       "Poland",
       "Portugal"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ie.svg"
   },
   {
@@ -492,7 +492,7 @@
       "Norway",
       "Japan"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/be.svg"
   },
   {
@@ -508,7 +508,7 @@
       "Japan",
       "India"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/nl.svg"
   },
   {
@@ -524,7 +524,7 @@
       "Indonesia",
       "Canada"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/es.svg"
   },
   {
@@ -540,7 +540,7 @@
       "Netherlands",
       "Uruguay"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/pt.svg"
   },
   {
@@ -556,7 +556,7 @@
       "Canada",
       "Egypt"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/pl.svg"
   },
   {
@@ -572,7 +572,7 @@
       "Norway",
       "Portugal"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ua.svg"
   },
   {
@@ -588,7 +588,7 @@
       "Bulgaria",
       "Ukraine"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/at.svg"
   },
   {
@@ -604,7 +604,7 @@
       "Turkey",
       "France"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ch.svg"
   },
   {
@@ -620,7 +620,7 @@
       "Ethiopia",
       "Netherlands"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/se.svg"
   },
   {
@@ -636,7 +636,7 @@
       "Australia",
       "Russia"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/no.svg"
   },
   {
@@ -652,7 +652,7 @@
       "Lithuania",
       "Switzerland"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/dk.svg"
   },
   {
@@ -668,7 +668,7 @@
       "France",
       "Mexico"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/fi.svg"
   },
   {
@@ -684,7 +684,7 @@
       "China",
       "Czech Republic"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/gr.svg"
   },
   {
@@ -700,7 +700,7 @@
       "Japan",
       "Austria"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/tr.svg"
   },
   {
@@ -716,7 +716,7 @@
       "Spain",
       "Denmark"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/jp.svg"
   },
   {
@@ -732,7 +732,7 @@
       "Croatia",
       "Belgium"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/cn.svg"
   },
   {
@@ -748,7 +748,7 @@
       "Egypt",
       "Sweden"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/in.svg"
   },
   {
@@ -764,7 +764,7 @@
       "Mexico",
       "Denmark"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/us.svg"
   },
   {
@@ -780,7 +780,7 @@
       "Argentina",
       "Ghana"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ca.svg"
   },
   {
@@ -796,7 +796,7 @@
       "Chile",
       "Belgium"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/mx.svg"
   },
   {
@@ -812,7 +812,7 @@
       "South Korea",
       "Russia"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/br.svg"
   },
   {
@@ -828,7 +828,7 @@
       "Morocco",
       "Egypt"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ar.svg"
   },
   {
@@ -844,7 +844,7 @@
       "Pakistan",
       "Denmark"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/za.svg"
   },
   {
@@ -860,7 +860,7 @@
       "Denmark",
       "Greece"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/au.svg"
   },
   {
@@ -876,7 +876,7 @@
       "Estonia",
       "Peru"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/nz.svg"
   },
   {
@@ -892,7 +892,7 @@
       "Lithuania",
       "Tanzania"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ng.svg"
   },
   {
@@ -908,7 +908,7 @@
       "United States",
       "Israel"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ke.svg"
   },
   {
@@ -924,7 +924,7 @@
       "United Kingdom",
       "Algeria"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/eg.svg"
   },
   {
@@ -940,7 +940,7 @@
       "Germany",
       "Portugal"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ma.svg"
   },
   {
@@ -956,7 +956,7 @@
       "Vietnam",
       "United Kingdom"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/sa.svg"
   },
   {
@@ -972,7 +972,7 @@
       "United Kingdom",
       "Bulgaria"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/kr.svg"
   },
   {
@@ -988,7 +988,7 @@
       "Cuba",
       "Singapore"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/th.svg"
   },
   {
@@ -1004,7 +1004,7 @@
       "Pakistan",
       "Bulgaria"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/vn.svg"
   },
   {
@@ -1020,7 +1020,7 @@
       "Algeria",
       "Kenya"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/id.svg"
   },
   {
@@ -1036,7 +1036,7 @@
       "Thailand",
       "Peru"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ph.svg"
   },
   {
@@ -1052,7 +1052,7 @@
       "Belgium",
       "Spain"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/pk.svg"
   },
   {
@@ -1068,7 +1068,7 @@
       "Poland",
       "Tanzania"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/bd.svg"
   },
   {
@@ -1084,7 +1084,7 @@
       "Luxembourg",
       "Lithuania"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ru.svg"
   },
   {
@@ -1100,7 +1100,7 @@
       "Portugal",
       "Greece"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/cz.svg"
   },
   {
@@ -1116,7 +1116,7 @@
       "Morocco",
       "Spain"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/hu.svg"
   },
   {
@@ -1132,7 +1132,7 @@
       "Iceland",
       "Bangladesh"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ro.svg"
   },
   {
@@ -1148,7 +1148,7 @@
       "Saudi Arabia",
       "Germany"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/bg.svg"
   },
   {
@@ -1164,7 +1164,7 @@
       "Sweden",
       "Russia"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/hr.svg"
   },
   {
@@ -1180,7 +1180,7 @@
       "Brazil",
       "Russia"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/rs.svg"
   },
   {
@@ -1196,7 +1196,7 @@
       "Nigeria",
       "Switzerland"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/is.svg"
   },
   {
@@ -1212,7 +1212,7 @@
       "Thailand",
       "China"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/lu.svg"
   },
   {
@@ -1228,7 +1228,7 @@
       "Poland",
       "Nigeria"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ee.svg"
   },
   {
@@ -1244,7 +1244,7 @@
       "Belgium",
       "Algeria"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/lv.svg"
   },
   {
@@ -1260,7 +1260,7 @@
       "Poland",
       "Estonia"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/lt.svg"
   },
   {
@@ -1276,7 +1276,7 @@
       "Egypt",
       "Jamaica"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/co.svg"
   },
   {
@@ -1292,7 +1292,7 @@
       "China",
       "Saudi Arabia"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/cl.svg"
   },
   {
@@ -1308,7 +1308,7 @@
       "China",
       "Germany"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/pe.svg"
   },
   {
@@ -1324,7 +1324,7 @@
       "Belgium",
       "Ukraine"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/uy.svg"
   },
   {
@@ -1340,7 +1340,7 @@
       "Romania",
       "Thailand"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/jm.svg"
   },
   {
@@ -1356,7 +1356,7 @@
       "Luxembourg",
       "Brazil"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/cu.svg"
   },
   {
@@ -1372,7 +1372,7 @@
       "South Korea",
       "Sweden"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/il.svg"
   },
   {
@@ -1388,7 +1388,7 @@
       "United Arab Emirates",
       "Italy"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/sg.svg"
   },
   {
@@ -1404,7 +1404,7 @@
       "Saudi Arabia",
       "Chile"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/my.svg"
   },
   {
@@ -1420,7 +1420,7 @@
       "Czech Republic",
       "Sweden"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/qa.svg"
   },
   {
@@ -1436,7 +1436,7 @@
       "Italy",
       "Latvia"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/ae.svg"
   },
   {
@@ -1452,7 +1452,7 @@
       "Latvia",
       "Greece"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/gh.svg"
   },
   {
@@ -1468,7 +1468,7 @@
       "New Zealand",
       "Romania"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/et.svg"
   },
   {
@@ -1484,7 +1484,7 @@
       "Argentina",
       "United Arab Emirates"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/tz.svg"
   },
   {
@@ -1500,7 +1500,7 @@
       "Romania",
       "Bangladesh"
     ],
-    "emoji": "\ud83c\udff3\ufe0f",
+    "emoji": "🏳️",
     "image": "/assets/flags/dz.svg"
   },
   {
@@ -1516,7 +1516,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -1532,7 +1532,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -1548,7 +1548,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -1564,7 +1564,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -1580,7 +1580,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -1596,7 +1596,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -1612,7 +1612,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -1628,7 +1628,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -1644,7 +1644,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -1660,7 +1660,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -1676,7 +1676,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -1692,7 +1692,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -1708,7 +1708,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -1724,7 +1724,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -1740,7 +1740,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -1756,7 +1756,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -1772,7 +1772,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -1788,7 +1788,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -1804,7 +1804,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -1820,7 +1820,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -1836,7 +1836,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -1852,7 +1852,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -1868,7 +1868,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -1884,7 +1884,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -1900,7 +1900,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -1916,7 +1916,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -1932,7 +1932,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -1948,7 +1948,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -1964,7 +1964,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -1980,7 +1980,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -1996,7 +1996,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -2012,7 +2012,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -2028,7 +2028,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -2044,7 +2044,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -2060,7 +2060,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -2076,7 +2076,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -2092,7 +2092,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -2108,7 +2108,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -2124,7 +2124,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -2140,7 +2140,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -2156,7 +2156,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -2172,7 +2172,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -2188,7 +2188,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -2204,7 +2204,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -2220,7 +2220,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -2236,7 +2236,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -2252,7 +2252,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -2268,7 +2268,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -2284,7 +2284,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -2300,7 +2300,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -2316,7 +2316,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -2332,7 +2332,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -2348,7 +2348,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -2364,7 +2364,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -2380,7 +2380,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -2396,7 +2396,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -2412,7 +2412,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -2428,7 +2428,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -2444,7 +2444,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -2460,7 +2460,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -2476,7 +2476,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -2492,7 +2492,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -2508,7 +2508,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -2524,7 +2524,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -2540,7 +2540,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -2556,7 +2556,7 @@
       "Liver",
       "Kidneys"
     ],
-    "emoji": "\ud83e\udec0",
+    "emoji": "🫀",
     "image": null
   },
   {
@@ -2572,7 +2572,7 @@
       "Oxygen",
       "Sugar"
     ],
-    "emoji": "\ud83d\udca7",
+    "emoji": "💧",
     "image": null
   },
   {
@@ -2588,7 +2588,7 @@
       "Neutron",
       "Photon"
     ],
-    "emoji": "\u269b\ufe0f",
+    "emoji": "⚛️",
     "image": null
   },
   {
@@ -2604,7 +2604,7 @@
       "Beaufort scale",
       "Kelvin scale"
     ],
-    "emoji": "\ud83e\uddeb",
+    "emoji": "🧫",
     "image": null
   },
   {
@@ -2620,7 +2620,7 @@
       "30,000 km/s",
       "3,000,000 km/s"
     ],
-    "emoji": "\ud83d\udca1",
+    "emoji": "💡",
     "image": null
   },
   {
@@ -2636,7 +2636,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -2652,7 +2652,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -2668,7 +2668,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -2684,7 +2684,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -2700,7 +2700,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -2716,7 +2716,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -2732,7 +2732,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -2748,7 +2748,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -2764,7 +2764,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -2780,7 +2780,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -2796,7 +2796,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -2812,7 +2812,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -2828,7 +2828,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -2844,7 +2844,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -2860,7 +2860,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -2876,7 +2876,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -2892,7 +2892,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -2908,7 +2908,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -2924,7 +2924,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -2940,7 +2940,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -2956,7 +2956,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -2972,7 +2972,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -2988,7 +2988,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -3004,7 +3004,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -3020,7 +3020,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -3036,7 +3036,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -3052,7 +3052,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -3068,7 +3068,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -3084,7 +3084,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -3100,7 +3100,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -3116,7 +3116,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -3132,7 +3132,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -3148,7 +3148,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -3164,7 +3164,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -3180,7 +3180,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -3196,7 +3196,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -3212,7 +3212,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -3228,7 +3228,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -3244,7 +3244,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -3260,7 +3260,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -3276,7 +3276,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -3292,7 +3292,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -3308,7 +3308,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -3324,7 +3324,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -3340,7 +3340,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -3356,7 +3356,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -3372,7 +3372,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -3388,7 +3388,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -3404,7 +3404,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -3420,7 +3420,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -3436,7 +3436,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -3452,7 +3452,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -3468,7 +3468,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -3484,7 +3484,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -3500,7 +3500,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -3516,7 +3516,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -3532,7 +3532,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -3548,7 +3548,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -3564,7 +3564,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -3580,7 +3580,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -3596,7 +3596,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -3612,7 +3612,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -3628,7 +3628,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -3644,7 +3644,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -3660,7 +3660,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -3676,7 +3676,7 @@
       "Penguin",
       "Ostrich"
     ],
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "image": null
   },
   {
@@ -3692,7 +3692,7 @@
       "Bees",
       "Snails"
     ],
-    "emoji": "\ud83e\udd8b",
+    "emoji": "🦋",
     "image": null
   },
   {
@@ -3708,7 +3708,7 @@
       "Horse",
       "Greyhound"
     ],
-    "emoji": "\ud83d\udc06",
+    "emoji": "🐆",
     "image": null
   },
   {
@@ -3724,7 +3724,7 @@
       "Understory",
       "Soil"
     ],
-    "emoji": "\ud83c\udf33",
+    "emoji": "🌳",
     "image": null
   },
   {
@@ -3740,7 +3740,7 @@
       "Herpetology",
       "Mycology"
     ],
-    "emoji": "\ud83d\udc26",
+    "emoji": "🐦",
     "image": null
   },
   {
@@ -3756,7 +3756,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -3772,7 +3772,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -3788,7 +3788,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -3804,7 +3804,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -3820,7 +3820,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -3836,7 +3836,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -3852,7 +3852,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -3868,7 +3868,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -3884,7 +3884,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -3900,7 +3900,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -3916,7 +3916,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -3932,7 +3932,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -3948,7 +3948,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -3964,7 +3964,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -3980,7 +3980,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -3996,7 +3996,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -4012,7 +4012,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -4028,7 +4028,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -4044,7 +4044,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -4060,7 +4060,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -4076,7 +4076,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -4092,7 +4092,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -4108,7 +4108,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -4124,7 +4124,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -4140,7 +4140,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -4156,7 +4156,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -4172,7 +4172,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -4188,7 +4188,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -4204,7 +4204,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -4220,7 +4220,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -4236,7 +4236,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -4252,7 +4252,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -4268,7 +4268,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -4284,7 +4284,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -4300,7 +4300,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -4316,7 +4316,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -4332,7 +4332,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -4348,7 +4348,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -4364,7 +4364,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -4380,7 +4380,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -4396,7 +4396,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -4412,7 +4412,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -4428,7 +4428,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -4444,7 +4444,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -4460,7 +4460,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -4476,7 +4476,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -4492,7 +4492,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -4508,7 +4508,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -4524,7 +4524,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -4540,7 +4540,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -4556,7 +4556,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -4572,7 +4572,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -4588,7 +4588,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -4604,7 +4604,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -4620,7 +4620,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -4636,7 +4636,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -4652,7 +4652,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -4668,7 +4668,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -4684,7 +4684,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -4700,7 +4700,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -4716,7 +4716,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -4732,7 +4732,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -4748,7 +4748,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -4764,7 +4764,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -4780,7 +4780,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -4796,7 +4796,7 @@
       "G",
       "H"
     ],
-    "emoji": "\ud83c\udfb5",
+    "emoji": "🎵",
     "image": null
   },
   {
@@ -4812,7 +4812,7 @@
       "Melody only",
       "Lighting"
     ],
-    "emoji": "\ud83e\udd41",
+    "emoji": "🥁",
     "image": null
   },
   {
@@ -4828,7 +4828,7 @@
       "A drum solo",
       "A silent piece"
     ],
-    "emoji": "\ud83c\udf99\ufe0f",
+    "emoji": "🎙️",
     "image": null
   },
   {
@@ -4844,7 +4844,7 @@
       "Alto clef",
       "No clef"
     ],
-    "emoji": "\ud83c\udfbc",
+    "emoji": "🎼",
     "image": null
   },
   {
@@ -4860,7 +4860,7 @@
       "A drum beat",
       "A loud chord"
     ],
-    "emoji": "\ud83c\udfb6",
+    "emoji": "🎶",
     "image": null
   },
   {
@@ -4876,7 +4876,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -4892,7 +4892,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -4908,7 +4908,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -4924,7 +4924,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -4940,7 +4940,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -4956,7 +4956,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -4972,7 +4972,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -4988,7 +4988,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5004,7 +5004,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5020,7 +5020,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5036,7 +5036,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5052,7 +5052,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5068,7 +5068,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5084,7 +5084,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5100,7 +5100,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5116,7 +5116,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5132,7 +5132,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5148,7 +5148,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5164,7 +5164,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5180,7 +5180,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5196,7 +5196,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5212,7 +5212,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5228,7 +5228,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5244,7 +5244,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5260,7 +5260,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5276,7 +5276,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5292,7 +5292,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5308,7 +5308,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5324,7 +5324,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5340,7 +5340,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5356,7 +5356,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5372,7 +5372,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5388,7 +5388,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5404,7 +5404,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5420,7 +5420,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5436,7 +5436,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5452,7 +5452,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5468,7 +5468,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5484,7 +5484,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5500,7 +5500,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5516,7 +5516,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5532,7 +5532,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5548,7 +5548,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5564,7 +5564,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5580,7 +5580,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5596,7 +5596,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5612,7 +5612,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5628,7 +5628,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5644,7 +5644,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5660,7 +5660,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5676,7 +5676,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5692,7 +5692,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5708,7 +5708,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5724,7 +5724,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5740,7 +5740,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5756,7 +5756,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5772,7 +5772,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5788,7 +5788,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5804,7 +5804,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5820,7 +5820,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5836,7 +5836,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5852,7 +5852,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5868,7 +5868,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5884,7 +5884,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5900,7 +5900,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5916,7 +5916,7 @@
       "Cricket",
       "Golf"
     ],
-    "emoji": "\ud83c\udfc0",
+    "emoji": "🏀",
     "image": null
   },
   {
@@ -5932,7 +5932,7 @@
       "Cycling",
       "Sailing"
     ],
-    "emoji": "\ud83c\udfbe",
+    "emoji": "🎾",
     "image": null
   },
   {
@@ -5948,7 +5948,7 @@
       "A penalty",
       "A draw"
     ],
-    "emoji": "\ud83c\udfa9",
+    "emoji": "🎩",
     "image": null
   },
   {
@@ -5964,7 +5964,7 @@
       "6",
       "7"
     ],
-    "emoji": "\ud83c\udfc5",
+    "emoji": "🏅",
     "image": null
   },
   {
@@ -5980,7 +5980,7 @@
       "Eagle",
       "Albatross"
     ],
-    "emoji": "\u26f3",
+    "emoji": "⛳",
     "image": null
   },
   {
@@ -5996,7 +5996,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6012,7 +6012,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6028,7 +6028,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6044,7 +6044,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6060,7 +6060,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6076,7 +6076,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6092,7 +6092,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6108,7 +6108,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6124,7 +6124,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6140,7 +6140,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6156,7 +6156,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6172,7 +6172,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6188,7 +6188,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6204,7 +6204,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6220,7 +6220,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6236,7 +6236,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6252,7 +6252,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6268,7 +6268,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6284,7 +6284,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6300,7 +6300,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6316,7 +6316,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6332,7 +6332,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6348,7 +6348,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6364,7 +6364,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6380,7 +6380,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6396,7 +6396,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6412,7 +6412,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6428,7 +6428,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6444,7 +6444,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6460,7 +6460,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6476,7 +6476,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6492,7 +6492,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6508,7 +6508,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6524,7 +6524,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6540,7 +6540,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6556,7 +6556,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6572,7 +6572,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6588,7 +6588,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6604,7 +6604,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6620,7 +6620,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6636,7 +6636,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6652,7 +6652,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6668,7 +6668,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6684,7 +6684,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6700,7 +6700,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6716,7 +6716,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6732,7 +6732,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6748,7 +6748,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6764,7 +6764,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6780,7 +6780,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6796,7 +6796,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6812,7 +6812,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6828,7 +6828,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6844,7 +6844,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6860,7 +6860,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6876,7 +6876,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6892,7 +6892,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6908,7 +6908,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -6924,7 +6924,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -6940,7 +6940,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -6956,7 +6956,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -6972,7 +6972,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -6988,7 +6988,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -7004,7 +7004,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -7020,7 +7020,7 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "image": null
   },
   {
@@ -7036,7 +7036,7 @@
       "Indian Ocean",
       "Arctic Ocean"
     ],
-    "emoji": "\ud83c\udf0a",
+    "emoji": "🌊",
     "image": null
   },
   {
@@ -7052,7 +7052,7 @@
       "6",
       "8"
     ],
-    "emoji": "\ud83d\uddfa\ufe0f",
+    "emoji": "🗺️",
     "image": null
   },
   {
@@ -7068,7 +7068,7 @@
       "Spanish",
       "Hindi"
     ],
-    "emoji": "\ud83d\udde3\ufe0f",
+    "emoji": "🗣️",
     "image": null
   },
   {
@@ -7084,7 +7084,7 @@
       "Dollar",
       "Rupee"
     ],
-    "emoji": "\ud83d\udcb4",
+    "emoji": "💴",
     "image": null
   },
   {
@@ -7100,7 +7100,967 @@
       "1979",
       "1989"
     ],
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
+    "image": null
+  },
+  {
+    "id": "jw001",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what is the name of God used by Jehovah’s Witnesses?",
+    "answer": "Jehovah",
+    "options": [
+      "Jehovah",
+      "Moses",
+      "David",
+      "Paul"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "jw002",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "JW.org says Jehovah’s Witnesses base their beliefs on which book?",
+    "answer": "The Bible",
+    "options": [
+      "The Bible",
+      "A dictionary",
+      "A map",
+      "A newspaper"
+    ],
+    "emoji": "📚",
+    "image": null
+  },
+  {
+    "id": "jw003",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "Who is described on JW.org as the Son of God and Savior?",
+    "answer": "Jesus Christ",
+    "options": [
+      "Jesus Christ",
+      "Noah",
+      "Daniel",
+      "Peter"
+    ],
+    "emoji": "✝️",
+    "image": null
+  },
+  {
+    "id": "jw004",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What is the official website of Jehovah’s Witnesses called?",
+    "answer": "JW.org",
+    "options": [
+      "JW.org",
+      "JW.net",
+      "JW Bible Club",
+      "Bible Maps"
+    ],
+    "emoji": "🌐",
+    "image": null
+  },
+  {
+    "id": "jw005",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "On JW.org, Caleb and Sophia appear in which children’s video series?",
+    "answer": "Become Jehovah’s Friend",
+    "options": [
+      "Become Jehovah’s Friend",
+      "Kingdom Maps",
+      "Animal Friends",
+      "Music Stars"
+    ],
+    "emoji": "👧",
+    "image": null
+  },
+  {
+    "id": "jw006",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "JW.org has a children’s section with activities based on what?",
+    "answer": "The Bible",
+    "options": [
+      "The Bible",
+      "Video games",
+      "Football scores",
+      "Cooking only"
+    ],
+    "emoji": "🧩",
+    "image": null
+  },
+  {
+    "id": "jw007",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "In the Bible account often used in JW.org children’s lessons, who built the ark?",
+    "answer": "Noah",
+    "options": [
+      "Noah",
+      "Jonah",
+      "Moses",
+      "Samuel"
+    ],
+    "emoji": "🚢",
+    "image": null
+  },
+  {
+    "id": "jw008",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "In the Bible, who led the Israelites out of Egypt?",
+    "answer": "Moses",
+    "options": [
+      "Moses",
+      "Solomon",
+      "Gideon",
+      "Luke"
+    ],
+    "emoji": "🌊",
+    "image": null
+  },
+  {
+    "id": "jw009",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "Which young shepherd became king of Israel?",
+    "answer": "David",
+    "options": [
+      "David",
+      "Cain",
+      "Pharaoh",
+      "Pilate"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "jw010",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "Who was thrown into a lions’ pit but was protected?",
+    "answer": "Daniel",
+    "options": [
+      "Daniel",
+      "Esau",
+      "Matthew",
+      "Thomas"
+    ],
+    "emoji": "🦁",
+    "image": null
+  },
+  {
+    "id": "jw011",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "JW.org teaches that prayer is talking to whom?",
+    "answer": "Jehovah God",
+    "options": [
+      "Jehovah God",
+      "A king",
+      "An angel statue",
+      "A teacher"
+    ],
+    "emoji": "🙏",
+    "image": null
+  },
+  {
+    "id": "jw012",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "Which book of the Bible tells about Jesus’ birth in Bethlehem?",
+    "answer": "Luke",
+    "options": [
+      "Luke",
+      "Obadiah",
+      "Nahum",
+      "Jude"
+    ],
+    "emoji": "⭐",
+    "image": null
+  },
+  {
+    "id": "jw013",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What quality means telling the truth?",
+    "answer": "Honesty",
+    "options": [
+      "Honesty",
+      "Laziness",
+      "Greed",
+      "Pride"
+    ],
+    "emoji": "✅",
+    "image": null
+  },
+  {
+    "id": "jw014",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What quality means being kind even when someone upsets you?",
+    "answer": "Forgiveness",
+    "options": [
+      "Forgiveness",
+      "Boasting",
+      "Cheating",
+      "Arguing"
+    ],
+    "emoji": "🤝",
+    "image": null
+  },
+  {
+    "id": "jw015",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, who was swallowed by a great fish?",
+    "answer": "Jonah",
+    "options": [
+      "Jonah",
+      "Abel",
+      "Isaac",
+      "Timothy"
+    ],
+    "emoji": "🐟",
+    "image": null
+  },
+  {
+    "id": "jw016",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What did Jesus teach his followers to show to others?",
+    "answer": "Love",
+    "options": [
+      "Love",
+      "Jealousy",
+      "Anger",
+      "Rudeness"
+    ],
+    "emoji": "❤️",
+    "image": null
+  },
+  {
+    "id": "jw017",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What is the name of the first book of the Bible?",
+    "answer": "Genesis",
+    "options": [
+      "Genesis",
+      "Matthew",
+      "Psalms",
+      "Romans"
+    ],
+    "emoji": "📘",
+    "image": null
+  },
+  {
+    "id": "jw018",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What is the name of the last book of the Bible?",
+    "answer": "Revelation",
+    "options": [
+      "Revelation",
+      "Exodus",
+      "Acts",
+      "Proverbs"
+    ],
+    "emoji": "📗",
+    "image": null
+  },
+  {
+    "id": "jw019",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, Jehovah’s Witnesses are known for talking to people about God’s Kingdom and whom?",
+    "answer": "Jehovah God",
+    "options": [
+      "Jehovah God",
+      "Caesar",
+      "Goliath",
+      "Pharaoh"
+    ],
+    "emoji": "🚪",
+    "image": null
+  },
+  {
+    "id": "jw020",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What do Jehovah’s Witnesses call their meeting places?",
+    "answer": "Kingdom Halls",
+    "options": [
+      "Kingdom Halls",
+      "Castles",
+      "Stadiums",
+      "Museums"
+    ],
+    "emoji": "🏛️",
+    "image": null
+  },
+  {
+    "id": "jw021",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does the name Jehovah identify him as?",
+    "answer": "The God of the Bible and Creator",
+    "options": [
+      "The God of the Bible and Creator",
+      "A Roman ruler",
+      "A city in Israel",
+      "One of the apostles"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "jw022",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "JW.org says Jehovah’s Witnesses are Christians who try to imitate whom?",
+    "answer": "Jesus Christ",
+    "options": [
+      "Jesus Christ",
+      "Pharaoh",
+      "Nebuchadnezzar",
+      "Herod"
+    ],
+    "emoji": "✝️",
+    "image": null
+  },
+  {
+    "id": "jw023",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which JW.org study publication is an interactive Bible course?",
+    "answer": "Enjoy Life Forever!",
+    "options": [
+      "Enjoy Life Forever!",
+      "The Flag Book",
+      "Songs of Rome",
+      "Ancient Maps"
+    ],
+    "emoji": "📘",
+    "image": null
+  },
+  {
+    "id": "jw024",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "JW.org Bible Questions Answered covers topics such as God, Jesus, prayer, family, suffering, and what else?",
+    "answer": "Life and death",
+    "options": [
+      "Life and death",
+      "Car repair",
+      "Stock prices",
+      "Weather forecasts"
+    ],
+    "emoji": "❓",
+    "image": null
+  },
+  {
+    "id": "jw025",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "In JW.org’s description, the Bible Teachings section says the Bible offers practical advice based on which verses?",
+    "answer": "2 Timothy 3:16, 17",
+    "options": [
+      "2 Timothy 3:16, 17",
+      "John 11:35",
+      "Genesis 1:1",
+      "Psalm 23:1"
+    ],
+    "emoji": "📝",
+    "image": null
+  },
+  {
+    "id": "jw026",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which Bible book records Jesus’ Sermon on the Mount?",
+    "answer": "Matthew",
+    "options": [
+      "Matthew",
+      "Esther",
+      "Malachi",
+      "Philemon"
+    ],
+    "emoji": "⛰️",
+    "image": null
+  },
+  {
+    "id": "jw027",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which apostle was formerly known as Saul?",
+    "answer": "Paul",
+    "options": [
+      "Paul",
+      "Peter",
+      "John",
+      "James"
+    ],
+    "emoji": "🛤️",
+    "image": null
+  },
+  {
+    "id": "jw028",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which Bible book contains many wise sayings often quoted in JW.org articles?",
+    "answer": "Proverbs",
+    "options": [
+      "Proverbs",
+      "Acts",
+      "Leviticus",
+      "Mark"
+    ],
+    "emoji": "💡",
+    "image": null
+  },
+  {
+    "id": "jw029",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which Bible character was known for great wisdom?",
+    "answer": "Solomon",
+    "options": [
+      "Solomon",
+      "Esau",
+      "Barabbas",
+      "Felix"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "jw030",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Who was Ruth’s mother-in-law?",
+    "answer": "Naomi",
+    "options": [
+      "Naomi",
+      "Miriam",
+      "Rachel",
+      "Deborah"
+    ],
+    "emoji": "🌾",
+    "image": null
+  },
+  {
+    "id": "jw031",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which prophet confronted the prophets of Baal on Mount Carmel?",
+    "answer": "Elijah",
+    "options": [
+      "Elijah",
+      "Ezekiel",
+      "Hosea",
+      "Amos"
+    ],
+    "emoji": "🔥",
+    "image": null
+  },
+  {
+    "id": "jw032",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "In the Bible, who interpreted Pharaoh’s dreams in Egypt?",
+    "answer": "Joseph",
+    "options": [
+      "Joseph",
+      "Joshua",
+      "Jonathan",
+      "Jude"
+    ],
+    "emoji": "🌙",
+    "image": null
+  },
+  {
+    "id": "jw033",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, Jehovah’s Witnesses use their website to provide online access to the Bible and what else?",
+    "answer": "Bible-based publications",
+    "options": [
+      "Bible-based publications",
+      "Movie tickets",
+      "Bank accounts",
+      "Restaurant menus"
+    ],
+    "emoji": "🌐",
+    "image": null
+  },
+  {
+    "id": "jw034",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "What Bible term refers to the good news Jesus preached?",
+    "answer": "The Kingdom of God",
+    "options": [
+      "The Kingdom of God",
+      "The Roman Empire",
+      "The city gates",
+      "The market price"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "jw035",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which Gospel writer was a physician?",
+    "answer": "Luke",
+    "options": [
+      "Luke",
+      "Matthew",
+      "Mark",
+      "John"
+    ],
+    "emoji": "🩺",
+    "image": null
+  },
+  {
+    "id": "jw036",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which Bible book describes the fruitage of the spirit?",
+    "answer": "Galatians",
+    "options": [
+      "Galatians",
+      "Jonah",
+      "Joshua",
+      "Ezra"
+    ],
+    "emoji": "🍇",
+    "image": null
+  },
+  {
+    "id": "jw037",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which quality is listed as part of the fruitage of the spirit in Galatians 5?",
+    "answer": "Kindness",
+    "options": [
+      "Kindness",
+      "Envy",
+      "Rage",
+      "Greed"
+    ],
+    "emoji": "🌱",
+    "image": null
+  },
+  {
+    "id": "jw038",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "JW.org’s children’s material includes Bible character cards and what else?",
+    "answer": "Activities",
+    "options": [
+      "Activities",
+      "Tax forms",
+      "Car manuals",
+      "Recipe ratings"
+    ],
+    "emoji": "🎲",
+    "image": null
+  },
+  {
+    "id": "jw039",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which Bible account features Shadrach, Meshach, and Abednego?",
+    "answer": "The fiery furnace",
+    "options": [
+      "The fiery furnace",
+      "The Red Sea crossing",
+      "The walls of Jericho",
+      "The storm on Galilee"
+    ],
+    "emoji": "🔥",
+    "image": null
+  },
+  {
+    "id": "jw040",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which Bible book begins with the words “In the beginning”?",
+    "answer": "Genesis",
+    "options": [
+      "Genesis",
+      "Matthew",
+      "Acts",
+      "Revelation"
+    ],
+    "emoji": "🌍",
+    "image": null
+  },
+  {
+    "id": "jw041",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org’s FAQ, Jehovah’s Witnesses say they accept which part of the Bible?",
+    "answer": "The entire Bible",
+    "options": [
+      "The entire Bible",
+      "Only Psalms",
+      "Only the Gospels",
+      "Only Proverbs"
+    ],
+    "emoji": "📚",
+    "image": null
+  },
+  {
+    "id": "jw042",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "JW.org explains that some Bible passages are symbolic, citing which Bible book as an example?",
+    "answer": "Revelation",
+    "options": [
+      "Revelation",
+      "Ruth",
+      "Nehemiah",
+      "Haggai"
+    ],
+    "emoji": "🔎",
+    "image": null
+  },
+  {
+    "id": "jw043",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, why are they known as Jehovah’s Witnesses?",
+    "answer": "They witness, or talk, about Jehovah God and his Kingdom",
+    "options": [
+      "They witness, or talk, about Jehovah God and his Kingdom",
+      "They sell religious souvenirs",
+      "They study only astronomy",
+      "They founded Jerusalem"
+    ],
+    "emoji": "🚪",
+    "image": null
+  },
+  {
+    "id": "jw044",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Psalm is often cited on JW.org to support the use of God’s name Jehovah?",
+    "answer": "Psalm 83:18",
+    "options": [
+      "Psalm 83:18",
+      "Psalm 1:1",
+      "Psalm 23:4",
+      "Psalm 150:6"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "jw045",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which verse does JW.org cite when describing Jesus as God’s Son and Savior?",
+    "answer": "John 3:16",
+    "options": [
+      "John 3:16",
+      "Genesis 2:7",
+      "Ecclesiastes 3:1",
+      "Acts 20:35"
+    ],
+    "emoji": "✝️",
+    "image": null
+  },
+  {
+    "id": "jw046",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, Jehovah’s Witnesses base their beliefs solely on the Bible, citing which verse?",
+    "answer": "2 Timothy 3:16",
+    "options": [
+      "2 Timothy 3:16",
+      "Matthew 5:3",
+      "Romans 12:12",
+      "Psalm 37:11"
+    ],
+    "emoji": "🧠",
+    "image": null
+  },
+  {
+    "id": "jw047",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Bible book contains the account of Pentecost and the early Christian congregation?",
+    "answer": "Acts",
+    "options": [
+      "Acts",
+      "Numbers",
+      "Job",
+      "Song of Solomon"
+    ],
+    "emoji": "🔥",
+    "image": null
+  },
+  {
+    "id": "jw048",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which minor prophet contains the expression about walking modestly with God?",
+    "answer": "Micah",
+    "options": [
+      "Micah",
+      "Nahum",
+      "Habakkuk",
+      "Zephaniah"
+    ],
+    "emoji": "🚶",
+    "image": null
+  },
+  {
+    "id": "jw049",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Bible book contains the account of Esther and Mordecai?",
+    "answer": "Esther",
+    "options": [
+      "Esther",
+      "Ezra",
+      "Nehemiah",
+      "Judges"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "jw050",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Bible book includes the account of Nehemiah rebuilding Jerusalem’s walls?",
+    "answer": "Nehemiah",
+    "options": [
+      "Nehemiah",
+      "Jeremiah",
+      "Daniel",
+      "Joel"
+    ],
+    "emoji": "🧱",
+    "image": null
+  },
+  {
+    "id": "jw051",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which book contains the words “God is love”?",
+    "answer": "1 John",
+    "options": [
+      "1 John",
+      "3 John",
+      "Jude",
+      "Titus"
+    ],
+    "emoji": "❤️",
+    "image": null
+  },
+  {
+    "id": "jw052",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Gospel contains the account of Lazarus being resurrected by Jesus?",
+    "answer": "John",
+    "options": [
+      "John",
+      "Mark",
+      "Luke",
+      "Matthew"
+    ],
+    "emoji": "🪦",
+    "image": null
+  },
+  {
+    "id": "jw053",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Bible book includes the account of Paul’s shipwreck on Malta?",
+    "answer": "Acts",
+    "options": [
+      "Acts",
+      "Romans",
+      "Hebrews",
+      "James"
+    ],
+    "emoji": "⛵",
+    "image": null
+  },
+  {
+    "id": "jw054",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which king saw the handwriting on the wall in Daniel chapter 5?",
+    "answer": "Belshazzar",
+    "options": [
+      "Belshazzar",
+      "Ahab",
+      "Saul",
+      "Rehoboam"
+    ],
+    "emoji": "✍️",
+    "image": null
+  },
+  {
+    "id": "jw055",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Bible book contains the account of Gideon and the 300 men?",
+    "answer": "Judges",
+    "options": [
+      "Judges",
+      "Joshua",
+      "1 Samuel",
+      "2 Kings"
+    ],
+    "emoji": "🏺",
+    "image": null
+  },
+  {
+    "id": "jw056",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Bible book contains the account of Hannah praying for a son?",
+    "answer": "1 Samuel",
+    "options": [
+      "1 Samuel",
+      "2 Samuel",
+      "1 Kings",
+      "2 Chronicles"
+    ],
+    "emoji": "🙏",
+    "image": null
+  },
+  {
+    "id": "jw057",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Bible book includes Paul’s counsel about the “fruitage of the spirit”?",
+    "answer": "Galatians",
+    "options": [
+      "Galatians",
+      "Ephesians",
+      "Philippians",
+      "Colossians"
+    ],
+    "emoji": "🍇",
+    "image": null
+  },
+  {
+    "id": "jw058",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Bible book includes the phrase “faith without works is dead”?",
+    "answer": "James",
+    "options": [
+      "James",
+      "Jude",
+      "Romans",
+      "Hebrews"
+    ],
+    "emoji": "🛠️",
+    "image": null
+  },
+  {
+    "id": "jw059",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Bible book records the account of the Queen of Sheba visiting Solomon?",
+    "answer": "1 Kings",
+    "options": [
+      "1 Kings",
+      "2 Kings",
+      "Ezra",
+      "Lamentations"
+    ],
+    "emoji": "🐪",
+    "image": null
+  },
+  {
+    "id": "jw060",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "Which Bible book contains Jesus’ illustration of the good Samaritan?",
+    "answer": "Luke",
+    "options": [
+      "Luke",
+      "Matthew",
+      "Mark",
+      "John"
+    ],
+    "emoji": "🫒",
     "image": null
   }
 ]

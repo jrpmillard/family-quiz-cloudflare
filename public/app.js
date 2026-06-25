@@ -22,6 +22,7 @@
     progressFill: byId('progressFill'),
     visual: byId('visual'),
     prompt: byId('prompt'),
+    questionCard: document.querySelector('.question'),
     answers: byId('answers'),
     resultScore: byId('resultScore'),
     resultDetails: byId('resultDetails'),
@@ -69,11 +70,15 @@
     return arr;
   }
 
+  function makeQuestionKey(q) {
+    return `${q.subject || ''}|${q.level || ''}|${String(q.prompt || '').trim().toLowerCase()}|${String(q.answer || '').trim().toLowerCase()}|${q.image || ''}`;
+  }
+
   function sampleUnique(pool, wanted) {
     const seen = new Set();
     const unique = [];
     for (const q of shuffle(pool)) {
-      const key = q.id || `${q.subject}|${q.level}|${q.prompt}|${q.answer}`;
+      const key = makeQuestionKey(q);
       if (!seen.has(key)) {
         seen.add(key);
         unique.push(q);
@@ -122,7 +127,14 @@
     };
 
     const pool = getPool(settings.subject, settings.level);
-    quiz = sampleUnique(pool, settings.length).map(q => ({ ...q, options: shuffle(q.options || []) }));
+    const selected = sampleUnique(pool, settings.length);
+    const finalSeen = new Set();
+    quiz = selected.filter(q => {
+      const key = makeQuestionKey(q);
+      if (finalSeen.has(key)) return false;
+      finalSeen.add(key);
+      return true;
+    }).map(q => ({ ...q, options: shuffle(q.options || []) }));
 
     if (!quiz.length) {
       els.setupMsg.textContent = 'No questions are available for those settings yet.';
@@ -152,6 +164,7 @@
 
   function showQuestion() {
     const q = quiz[idx];
+    els.questionCard.classList.remove('correct-pop', 'wrong-shake');
     els.qCount.textContent = `Question ${idx + 1} of ${quiz.length}`;
     els.scoreNow.textContent = `Score ${score}`;
     els.progressFill.style.width = `${(idx / quiz.length) * 100}%`;
@@ -182,8 +195,12 @@
     if (option === correct) {
       score += 1;
       button.classList.add('correct');
+      els.questionCard.classList.add('correct-pop');
+      burst('🎉');
     } else {
       button.classList.add('wrong');
+      els.questionCard.classList.add('wrong-shake');
+      burst('✨');
     }
 
     setTimeout(() => {
@@ -193,11 +210,21 @@
     }, 850);
   }
 
+  function burst(symbol) {
+    const pop = document.createElement('div');
+    pop.className = 'answer-burst';
+    pop.textContent = symbol;
+    document.body.appendChild(pop);
+    setTimeout(() => pop.remove(), 900);
+  }
+
   async function finish() {
     clearInterval(timerId);
     els.progressFill.style.width = '100%';
     els.quiz.classList.add('hidden');
     els.results.classList.remove('hidden');
+    els.results.classList.add('finish-celebrate');
+    setTimeout(() => els.results.classList.remove('finish-celebrate'), 1200);
 
     const seconds = Math.floor((Date.now() - startTime) / 1000);
     const percent = Math.round((score / quiz.length) * 100);
@@ -227,6 +254,7 @@
     if (percent === 100) unlocked.push('Perfect Round');
     if (seconds < quiz.length * 8) unlocked.push('Speed Star');
     if (settings.subject === 'Flags' && percent >= 80) unlocked.push('Flag Expert');
+    if (settings.subject === 'JW' && percent >= 80) unlocked.push('JW Scholar');
     if (state.games >= 10) unlocked.push('Quiz Regular');
 
     const newlyUnlocked = unlocked.filter(a => !state.achievements.includes(a));
