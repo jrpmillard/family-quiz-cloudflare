@@ -98,19 +98,22 @@
       .replace(/[“”]/g, '"')
       .replace(/[‘’]/g, "'")
       .replace(/&amp;/g, '&')
+      .replace(/^\s*(round|question)\s+\d+\s*[:.-]\s*/i, '')
       .replace(/[^a-z0-9]+/g, ' ')
       .trim();
   }
 
-  // This is the important no-repeat fix.
-  // Non-image questions are unique by what the player sees: the prompt text only.
-  // Image questions are unique by image plus correct answer, so flag questions can use the same wording without repeating the same flag.
+  // Hard no-repeat rule.
+  // Questions are no longer assigned to rounds. At quiz start we build one shuffled pool
+  // for the chosen difficulty/subject, then draw from it while tracking these stable keys.
+  // The key intentionally strips generated prefixes such as 'Round 2:' or 'Question 4:'
+  // so repeated prompts cannot sneak through with slightly different wording.
   function visibleQuestionKey(q) {
     const prompt = normaliseText(q.prompt);
     const image = normaliseText(q.image);
     const answer = normaliseText(q.answer);
     if (image) return `image:${image}|answer:${answer}`;
-    return `prompt:${prompt}`;
+    return `prompt:${prompt}|answer:${answer}`;
   }
 
   function dedupeQuestionBank(pool) {
@@ -132,7 +135,8 @@
       const key = visibleQuestionKey(q);
       if (shownQuestionKeys.has(key)) continue;
       shownQuestionKeys.add(key);
-      selected.push({ ...q, options: shuffle([...new Set(q.options || [])]) });
+      const cleanOptions = [...new Set([...(q.options || []), q.answer].filter(Boolean))];
+      selected.push({ ...q, options: shuffle(cleanOptions) });
       if (selected.length >= wanted) break;
     }
     return selected;
@@ -145,7 +149,7 @@
   }
 
   function getPool(subject, level) {
-    if (subject === 'General Knowledge') return QUESTIONS.filter(q => q.level === level && q.subject !== 'Flags');
+    if (subject === 'General Knowledge') return QUESTIONS.filter(q => q.level === level && q.subject !== 'Flags' && q.subject !== 'JW');
     return QUESTIONS.filter(q => q.level === level && q.subject === subject);
   }
 

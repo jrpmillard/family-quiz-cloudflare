@@ -43,3 +43,7 @@ This release adds built-in Web Audio sound effects for quiz start, correct answe
 The JW category contains original quiz questions based on topics and teaching pages from JW.ORG, including Bible teachings, prayer, the ransom, resurrection hope, Bible stories, and Jehovah's Witnesses FAQ material. The questions are phrased as original summaries rather than copied article text.
 
 The quiz engine now deduplicates questions before selection using normalized prompt, answer, image, and flag/country keys, so the same question should not appear twice within a quiz even if a source JSON entry has shuffled answer choices.
+
+## v7 no-round selection
+
+Questions are not assigned to rounds. Each quiz builds a single pool from the selected subject and difficulty, removes duplicate visible prompts, shuffles that pool, and draws questions one at a time while tracking stable question keys. If fewer unique questions exist than the requested quiz length, the app automatically runs the shorter unique quiz rather than repeating questions.
