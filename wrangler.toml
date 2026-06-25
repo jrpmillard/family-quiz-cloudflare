@@ -7,4 +7,4 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "family-quiz-db"
-database_id = "PASTE_YOUR_DATABASE_ID_HERE"
+database_id = "efdd1f77-c252-469c-b93a-d88a5cdd325d"
