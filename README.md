@@ -1,63 +1,37 @@
-# Family Quiz - GitHub Connected Cloudflare Pages
+# Family Quiz Portal
 
-This version is designed for the simplest Cloudflare Pages + GitHub deployment.
+A polished family quiz app for Cloudflare Pages. It includes player names, difficulty, quiz length, subjects, non-repeating questions, real local SVG flag images, local high scores, achievements, and an optional Cloudflare D1 online leaderboard.
 
-It does **not** use `wrangler deploy`, `wrangler pages deploy`, or a `CLOUDFLARE_API_TOKEN` during builds.
+## GitHub to Cloudflare Pages
 
-## Cloudflare Pages settings
-
-Create a new **Cloudflare Pages** project and connect this GitHub repository.
-
-Use these settings:
+1. Create a GitHub repository and upload this project.
+2. In Cloudflare, create a **Pages** project connected to GitHub.
+3. Use these settings:
 
 ```txt
 Framework preset: None
 Build command: npm run build
 Build output directory: dist
 Root directory: /
-Deploy command: leave blank / none
 ```
 
-If your Cloudflare screen insists on a deploy command, you are probably not in the normal **Pages Git integration** flow. Use **Workers & Pages → Pages → Create project → Connect to Git**.
+No deploy command is needed for standard Pages Git integration.
 
-## D1 database setup
+## Optional online leaderboard with D1
 
-The quiz uses D1 for high scores. You only need to do this once.
+The app works without D1 using browser local storage. To enable online scores:
 
-1. In Cloudflare, go to **Workers & Pages → D1 SQL Database**.
-2. Create a database named:
+1. Create a Cloudflare D1 database.
+2. Run `schema.sql` against it.
+3. In your Pages project settings, add a D1 binding named `DB`.
+4. Redeploy.
+
+## Custom domain
+
+In the Pages project, open **Custom domains** and add:
 
 ```txt
-family-quiz-db
+familyquiz.ultimatepinapple.uk
 ```
 
-3. Open the database console and run the SQL from:
-
-```txt
-migrations/0001_scores.sql
-```
-
-4. In your Pages project, go to **Settings → Bindings → D1 database bindings**.
-5. Add this binding:
-
-```txt
-Variable name: DB
-D1 database: family-quiz-db
-```
-
-6. Redeploy the Pages project.
-
-## Files
-
-```txt
-public/              Static website files
-functions/api/       Cloudflare Pages Functions for high scores
-migrations/          D1 SQL schema
-build.js             Copies public/ to dist/
-package.json         Contains only the build script
-wrangler.toml        Optional local-development config only
-```
-
-## Local preview without database
-
-You can open `public/index.html` locally. The quiz will run, but high-score saving needs Cloudflare D1.
+Cloudflare will create the route/DNS automatically when the zone is in the same account.

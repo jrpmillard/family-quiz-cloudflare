@@ -1,59 +1,42 @@
-const json = (data, status = 200) =>
-  new Response(JSON.stringify(data), {
-    status,
-    headers: { "content-type": "application/json; charset=utf-8" }
-  });
-
-const cleanName = (value) => String(value || "").trim().replace(/\s+/g, " ").slice(0, 30);
-
-export async function onRequestGet({ env, request }) {
-  try {
-    if (!env.DB) return json({ error: "D1 binding DB is not configured." }, 500);
-    const url = new URL(request.url);
-    const subject = url.searchParams.get("subject");
-    const level = url.searchParams.get("level");
-    let query = "SELECT player_name, score, total_questions, percentage, duration_seconds, level, quiz_length, subject, completed_at FROM quiz_scores";
-    const clauses = [];
-    const params = [];
-    if (subject) { clauses.push("subject = ?"); params.push(subject); }
-    if (level) { clauses.push("level = ?"); params.push(level); }
-    if (clauses.length) query += " WHERE " + clauses.join(" AND ");
-    query += " ORDER BY percentage DESC, score DESC, duration_seconds ASC, completed_at DESC LIMIT 20";
-    const { results } = await env.DB.prepare(query).bind(...params).all();
-    return json({ scores: results || [] });
-  } catch (error) {
-    return json({ error: error.message }, 500);
-  }
+export async function onRequestGet(context) {
+  const { env, request } = context;
+  if (!env.DB) return json({ enabled: false, scores: [] });
+  const url = new URL(request.url);
+  const subject = url.searchParams.get('subject');
+  const level = url.searchParams.get('level');
+  const where = [];
+  const params = [];
+  if (subject && subject !== 'all') { where.push('subject = ?'); params.push(subject); }
+  if (level && level !== 'all') { where.push('level = ?'); params.push(level); }
+  const clause = where.length ? `WHERE ${where.join(' AND ')}` : '';
+  const stmt = env.DB.prepare(`SELECT player_name, score, total, percent, subject, level, length_label, seconds, completed_at FROM scores ${clause} ORDER BY percent DESC, score DESC, seconds ASC, completed_at DESC LIMIT 50`).bind(...params);
+  const { results } = await stmt.all();
+  return json({ enabled: true, scores: results || [] });
 }
 
-export async function onRequestPost({ env, request }) {
-  try {
-    if (!env.DB) return json({ error: "D1 binding DB is not configured." }, 500);
-    const body = await request.json();
-    const playerName = cleanName(body.playerName);
-    const score = Number.parseInt(body.score, 10);
-    const totalQuestions = Number.parseInt(body.totalQuestions, 10);
-    const durationSeconds = Math.max(0, Number.parseInt(body.durationSeconds, 10) || 0);
-    const level = String(body.level || "");
-    const quizLength = String(body.quizLength || "");
-    const subject = String(body.subject || "");
-
-    const allowedLevels = new Set(["Easy", "Medium", "Hard"]);
-    const allowedLengths = new Set(["Short", "Medium", "Long"]);
-    const allowedSubjects = new Set(["General Knowledge", "Flags", "Music", "Science", "Nature", "Sport"]);
-
-    if (!playerName) return json({ error: "Please enter a name." }, 400);
-    if (!allowedLevels.has(level) || !allowedLengths.has(quizLength) || !allowedSubjects.has(subject)) return json({ error: "Invalid quiz settings." }, 400);
-    if (!Number.isFinite(score) || !Number.isFinite(totalQuestions) || totalQuestions <= 0 || score < 0 || score > totalQuestions) return json({ error: "Invalid score." }, 400);
-
-    const percentage = Math.round((score / totalQuestions) * 10000) / 100;
-    await env.DB.prepare(`
-      INSERT INTO quiz_scores (player_name, score, total_questions, percentage, duration_seconds, level, quiz_length, subject)
-      VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-    `).bind(playerName, score, totalQuestions, percentage, durationSeconds, level, quizLength, subject).run();
-
-    return json({ ok: true, score: { playerName, score, totalQuestions, percentage, durationSeconds, level, quizLength, subject } }, 201);
-  } catch (error) {
-    return json({ error: error.message }, 500);
-  }
+export async function onRequestPost(context) {
+  const { env, request } = context;
+  if (!env.DB) return json({ enabled: false, saved: false, reason: 'No D1 binding named DB found.' }, 200);
+  const body = await request.json().catch(() => null);
+  if (!body) return json({ error: 'Invalid JSON' }, 400);
+  const cleanName = String(body.player_name || 'Player').slice(0, 30).replace(/[<>]/g, '').trim() || 'Player';
+  const score = clampInt(body.score, 0, 9999);
+  const total = clampInt(body.total, 1, 9999);
+  const percent = Math.round((score / total) * 100);
+  const seconds = clampInt(body.seconds, 0, 24 * 60 * 60);
+  const subject = String(body.subject || 'General Knowledge').slice(0, 40);
+  const level = String(body.level || 'Easy').slice(0, 20);
+  const length_label = String(body.length_label || 'Short').slice(0, 20);
+  const profile_id = String(body.profile_id || '').slice(0, 80);
+  const completed_at = new Date().toISOString();
+  await env.DB.prepare('INSERT INTO scores (player_name, profile_id, score, total, percent, subject, level, length_label, seconds, completed_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)')
+    .bind(cleanName, profile_id, score, total, percent, subject, level, length_label, seconds, completed_at).run();
+  return json({ enabled: true, saved: true });
 }
+
+function clampInt(value, min, max) {
+  const n = Number.parseInt(value, 10);
+  if (!Number.isFinite(n)) return min;
+  return Math.min(max, Math.max(min, n));
+}
+function json(data, status = 200) { return new Response(JSON.stringify(data), { status, headers: { 'content-type': 'application/json; charset=utf-8' } }); }
