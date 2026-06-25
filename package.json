@@ -1,0 +1,9 @@
+{
+  "name": "family-quiz-github-pages",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Family quiz app for Cloudflare Pages via GitHub integration.",
+  "scripts": {
+    "build": "node build.js"
+  }
+}

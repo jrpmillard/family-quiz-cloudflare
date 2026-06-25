@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Family Quiz</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app">
+    <section class="hero card">
+      <div>
+        <p class="eyebrow">Family Fun Projects</p>
+        <h1>Family Quiz</h1>
+        <p>Pick a level, length and subject, then answer four-choice questions with pictures, icons and text clues.</p>
+      </div>
+      <div class="trophy" aria-hidden="true">🏆</div>
+    </section>
+
+    <section id="setup" class="card">
+      <h2>Start a quiz</h2>
+      <form id="quiz-form" class="grid">
+        <label>Name taking part
+          <input id="playerName" maxlength="30" required placeholder="e.g. Sam" autocomplete="name" />
+        </label>
+        <label>Quiz Level
+          <select id="level">
+            <option>Easy</option>
+            <option>Medium</option>
+            <option>Hard</option>
+          </select>
+        </label>
+        <label>Quiz length
+          <select id="length">
+            <option value="Short">Short - 15 questions</option>
+            <option value="Medium">Medium - 25 questions</option>
+            <option value="Long">Long - 50 questions</option>
+          </select>
+        </label>
+        <label>Quiz subject
+          <select id="subject">
+            <option>General Knowledge</option>
+            <option>Flags</option>
+            <option>Music</option>
+            <option>Science</option>
+            <option>Nature</option>
+            <option>Sport</option>
+          </select>
+        </label>
+        <button class="primary" type="submit">Start quiz</button>
+      </form>
+    </section>
+
+    <section id="quiz" class="card hidden">
+      <div class="quiz-top">
+        <div>
+          <p id="progress" class="eyebrow"></p>
+          <h2 id="questionText"></h2>
+        </div>
+        <div id="timer" class="timer">00:00</div>
+      </div>
+      <div id="visual" class="visual"></div>
+      <div id="answers" class="answers"></div>
+      <p id="feedback" class="feedback"></p>
+      <button id="nextBtn" class="primary hidden" type="button">Next question</button>
+    </section>
+
+    <section id="results" class="card hidden">
+      <h2>Quiz complete!</h2>
+      <div id="resultSummary" class="result"></div>
+      <button id="playAgain" type="button">Play again</button>
+    </section>
+
+    <section class="card">
+      <div class="leader-header">
+        <h2>High scores</h2>
+        <button id="refreshScores" type="button">Refresh</button>
+      </div>
+      <div id="scoreStatus" class="muted">Loading scores…</div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Name</th><th>Score</th><th>Settings</th><th>Time</th><th>Date</th></tr></thead>
+          <tbody id="scoreRows"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+  <script src="app.js" type="module"></script>
+</body>
+</html>

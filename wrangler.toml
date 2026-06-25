@@ -1,0 +1,10 @@
+# Optional local-development config only.
+# You do not need this for GitHub-connected Cloudflare Pages deployment.
+name = "family-quiz-github-pages"
+compatibility_date = "2026-06-25"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "family-quiz-db"
+database_id = "PASTE_YOUR_DATABASE_ID_HERE"
