@@ -35,3 +35,11 @@ familyquiz.ultimatepinapple.uk
 ```
 
 Cloudflare will create the route/DNS automatically when the zone is in the same account.
+
+## v1.0 sound and JW update
+
+This release adds built-in Web Audio sound effects for quiz start, correct answer, incorrect answer, and quiz completion. No external sound files are required.
+
+The JW category contains original quiz questions based on topics and teaching pages from JW.ORG, including Bible teachings, prayer, the ransom, resurrection hope, Bible stories, and Jehovah's Witnesses FAQ material. The questions are phrased as original summaries rather than copied article text.
+
+The quiz engine now deduplicates questions before selection using normalized prompt, answer, image, and flag/country keys, so the same question should not appear twice within a quiz even if a source JSON entry has shuffled answer choices.

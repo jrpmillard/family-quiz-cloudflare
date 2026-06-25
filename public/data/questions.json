@@ -7104,231 +7104,311 @@
     "image": null
   },
   {
-    "id": "jw001",
+    "id": "q0445",
     "subject": "JW",
     "level": "Easy",
     "type": "text",
-    "prompt": "According to JW.org, what is the name of God used by Jehovah’s Witnesses?",
-    "answer": "Jehovah",
+    "prompt": "What is the official website of Jehovah’s Witnesses?",
+    "answer": "JW.ORG",
     "options": [
-      "Jehovah",
-      "Moses",
-      "David",
-      "Paul"
-    ],
-    "emoji": "📖",
-    "image": null
-  },
-  {
-    "id": "jw002",
-    "subject": "JW",
-    "level": "Easy",
-    "type": "text",
-    "prompt": "JW.org says Jehovah’s Witnesses base their beliefs on which book?",
-    "answer": "The Bible",
-    "options": [
-      "The Bible",
-      "A dictionary",
-      "A map",
-      "A newspaper"
-    ],
-    "emoji": "📚",
-    "image": null
-  },
-  {
-    "id": "jw003",
-    "subject": "JW",
-    "level": "Easy",
-    "type": "text",
-    "prompt": "Who is described on JW.org as the Son of God and Savior?",
-    "answer": "Jesus Christ",
-    "options": [
-      "Jesus Christ",
-      "Noah",
-      "Daniel",
-      "Peter"
-    ],
-    "emoji": "✝️",
-    "image": null
-  },
-  {
-    "id": "jw004",
-    "subject": "JW",
-    "level": "Easy",
-    "type": "text",
-    "prompt": "What is the official website of Jehovah’s Witnesses called?",
-    "answer": "JW.org",
-    "options": [
-      "JW.org",
-      "JW.net",
-      "JW Bible Club",
-      "Bible Maps"
+      "JW.ORG",
+      "JW.NET",
+      "JW.TV",
+      "Watchtower.com"
     ],
     "emoji": "🌐",
     "image": null
   },
   {
-    "id": "jw005",
+    "id": "q0446",
     "subject": "JW",
     "level": "Easy",
     "type": "text",
-    "prompt": "On JW.org, Caleb and Sophia appear in which children’s video series?",
-    "answer": "Become Jehovah’s Friend",
+    "prompt": "What name do Jehovah’s Witnesses use for God?",
+    "answer": "Jehovah",
     "options": [
-      "Become Jehovah’s Friend",
-      "Kingdom Maps",
-      "Animal Friends",
-      "Music Stars"
+      "Jehovah",
+      "Moses",
+      "Gabriel",
+      "David"
     ],
-    "emoji": "👧",
+    "emoji": "📖",
     "image": null
   },
   {
-    "id": "jw006",
+    "id": "q0447",
     "subject": "JW",
     "level": "Easy",
     "type": "text",
-    "prompt": "JW.org has a children’s section with activities based on what?",
+    "prompt": "According to JW.org, who is Jehovah?",
+    "answer": "The Creator",
+    "options": [
+      "The Creator",
+      "An apostle",
+      "A Roman ruler",
+      "A prophet only"
+    ],
+    "emoji": "🌍",
+    "image": null
+  },
+  {
+    "id": "q0448",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, who is Jesus?",
+    "answer": "God’s Son",
+    "options": [
+      "God’s Son",
+      "Almighty God",
+      "An angel named Gabriel",
+      "A Roman king"
+    ],
+    "emoji": "✨",
+    "image": null
+  },
+  {
+    "id": "q0449",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what book is the main guide for Jehovah’s Witnesses?",
     "answer": "The Bible",
     "options": [
       "The Bible",
-      "Video games",
-      "Football scores",
-      "Cooking only"
+      "A dictionary",
+      "A map book",
+      "A songbook only"
     ],
-    "emoji": "🧩",
+    "emoji": "📚",
     "image": null
   },
   {
-    "id": "jw007",
+    "id": "q0450",
     "subject": "JW",
     "level": "Easy",
     "type": "text",
-    "prompt": "In the Bible account often used in JW.org children’s lessons, who built the ark?",
-    "answer": "Noah",
+    "prompt": "What does JW.org say God’s Kingdom is?",
+    "answer": "A real government by God",
     "options": [
-      "Noah",
-      "Jonah",
-      "Moses",
-      "Samuel"
-    ],
-    "emoji": "🚢",
-    "image": null
-  },
-  {
-    "id": "jw008",
-    "subject": "JW",
-    "level": "Easy",
-    "type": "text",
-    "prompt": "In the Bible, who led the Israelites out of Egypt?",
-    "answer": "Moses",
-    "options": [
-      "Moses",
-      "Solomon",
-      "Gideon",
-      "Luke"
-    ],
-    "emoji": "🌊",
-    "image": null
-  },
-  {
-    "id": "jw009",
-    "subject": "JW",
-    "level": "Easy",
-    "type": "text",
-    "prompt": "Which young shepherd became king of Israel?",
-    "answer": "David",
-    "options": [
-      "David",
-      "Cain",
-      "Pharaoh",
-      "Pilate"
+      "A real government by God",
+      "A sports team",
+      "A country in Europe",
+      "A school club"
     ],
     "emoji": "👑",
     "image": null
   },
   {
-    "id": "jw010",
+    "id": "q0451",
     "subject": "JW",
     "level": "Easy",
     "type": "text",
-    "prompt": "Who was thrown into a lions’ pit but was protected?",
-    "answer": "Daniel",
+    "prompt": "In the model prayer discussed on JW.org, what should come?",
+    "answer": "God’s Kingdom",
     "options": [
-      "Daniel",
-      "Esau",
-      "Matthew",
-      "Thomas"
-    ],
-    "emoji": "🦁",
-    "image": null
-  },
-  {
-    "id": "jw011",
-    "subject": "JW",
-    "level": "Easy",
-    "type": "text",
-    "prompt": "JW.org teaches that prayer is talking to whom?",
-    "answer": "Jehovah God",
-    "options": [
-      "Jehovah God",
-      "A king",
-      "An angel statue",
-      "A teacher"
+      "God’s Kingdom",
+      "A holiday",
+      "A new city",
+      "A storm"
     ],
     "emoji": "🙏",
     "image": null
   },
   {
-    "id": "jw012",
+    "id": "q0452",
     "subject": "JW",
     "level": "Easy",
     "type": "text",
-    "prompt": "Which book of the Bible tells about Jesus’ birth in Bethlehem?",
-    "answer": "Luke",
+    "prompt": "According to JW.org, what is prayer?",
+    "answer": "Speaking to God",
     "options": [
-      "Luke",
-      "Obadiah",
-      "Nahum",
-      "Jude"
+      "Speaking to God",
+      "Reading a map",
+      "Playing music",
+      "Writing a story"
     ],
-    "emoji": "⭐",
+    "emoji": "🙏",
     "image": null
   },
   {
-    "id": "jw013",
+    "id": "q0453",
     "subject": "JW",
     "level": "Easy",
     "type": "text",
-    "prompt": "What quality means telling the truth?",
-    "answer": "Honesty",
+    "prompt": "According to JW.org, who taught his disciples how to pray?",
+    "answer": "Jesus",
     "options": [
-      "Honesty",
-      "Laziness",
-      "Greed",
-      "Pride"
+      "Jesus",
+      "Noah",
+      "Pharaoh",
+      "Caesar"
     ],
-    "emoji": "✅",
+    "emoji": "🙏",
     "image": null
   },
   {
-    "id": "jw014",
+    "id": "q0454",
     "subject": "JW",
     "level": "Easy",
     "type": "text",
-    "prompt": "What quality means being kind even when someone upsets you?",
-    "answer": "Forgiveness",
+    "prompt": "According to JW.org, what hope does the Bible give for dead loved ones?",
+    "answer": "Resurrection",
     "options": [
-      "Forgiveness",
-      "Boasting",
-      "Cheating",
-      "Arguing"
+      "Resurrection",
+      "Reincarnation",
+      "No hope",
+      "Becoming stars"
     ],
-    "emoji": "🤝",
+    "emoji": "🌅",
     "image": null
   },
   {
-    "id": "jw015",
+    "id": "q0455",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, who has been given power to resurrect people?",
+    "answer": "Jesus",
+    "options": [
+      "Jesus",
+      "Pilate",
+      "Goliath",
+      "Jonah"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0456",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What does JW.org say the ransom helps people gain?",
+    "answer": "Forgiveness of sins",
+    "options": [
+      "Forgiveness of sins",
+      "More money",
+      "More land",
+      "A crown now"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0457",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "Who did Jehovah send to earth to provide the ransom?",
+    "answer": "Jesus",
+    "options": [
+      "Jesus",
+      "Moses",
+      "Elijah",
+      "Peter"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0458",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what was the first thing God created?",
+    "answer": "His first angelic Son",
+    "options": [
+      "His first angelic Son",
+      "A city",
+      "A boat",
+      "A temple"
+    ],
+    "emoji": "✨",
+    "image": null
+  },
+  {
+    "id": "q0459",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, where did Adam and Eve live at first?",
+    "answer": "Garden of Eden",
+    "options": [
+      "Garden of Eden",
+      "Egypt",
+      "Babylon",
+      "Rome"
+    ],
+    "emoji": "🌳",
+    "image": null
+  },
+  {
+    "id": "q0460",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, who built an ark?",
+    "answer": "Noah",
+    "options": [
+      "Noah",
+      "Moses",
+      "David",
+      "Peter"
+    ],
+    "emoji": "🚢",
+    "image": null
+  },
+  {
+    "id": "q0461",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, who led Israel out of Egypt?",
+    "answer": "Moses",
+    "options": [
+      "Moses",
+      "Daniel",
+      "Solomon",
+      "Paul"
+    ],
+    "emoji": "🌊",
+    "image": null
+  },
+  {
+    "id": "q0462",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, who defeated Goliath?",
+    "answer": "David",
+    "options": [
+      "David",
+      "Noah",
+      "Aaron",
+      "Luke"
+    ],
+    "emoji": "🪨",
+    "image": null
+  },
+  {
+    "id": "q0463",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, who was thrown into a lions’ pit?",
+    "answer": "Daniel",
+    "options": [
+      "Daniel",
+      "Jonah",
+      "Samuel",
+      "Isaac"
+    ],
+    "emoji": "🦁",
+    "image": null
+  },
+  {
+    "id": "q0464",
     "subject": "JW",
     "level": "Easy",
     "type": "text",
@@ -7336,731 +7416,2091 @@
     "answer": "Jonah",
     "options": [
       "Jonah",
-      "Abel",
-      "Isaac",
-      "Timothy"
+      "Abraham",
+      "Saul",
+      "Matthew"
     ],
     "emoji": "🐟",
     "image": null
   },
   {
-    "id": "jw016",
+    "id": "q0465",
     "subject": "JW",
     "level": "Easy",
     "type": "text",
-    "prompt": "What did Jesus teach his followers to show to others?",
-    "answer": "Love",
+    "prompt": "According to JW.org, what should God’s name be treated as?",
+    "answer": "Holy",
     "options": [
-      "Love",
-      "Jealousy",
-      "Anger",
-      "Rudeness"
-    ],
-    "emoji": "❤️",
-    "image": null
-  },
-  {
-    "id": "jw017",
-    "subject": "JW",
-    "level": "Easy",
-    "type": "text",
-    "prompt": "What is the name of the first book of the Bible?",
-    "answer": "Genesis",
-    "options": [
-      "Genesis",
-      "Matthew",
-      "Psalms",
-      "Romans"
-    ],
-    "emoji": "📘",
-    "image": null
-  },
-  {
-    "id": "jw018",
-    "subject": "JW",
-    "level": "Easy",
-    "type": "text",
-    "prompt": "What is the name of the last book of the Bible?",
-    "answer": "Revelation",
-    "options": [
-      "Revelation",
-      "Exodus",
-      "Acts",
-      "Proverbs"
-    ],
-    "emoji": "📗",
-    "image": null
-  },
-  {
-    "id": "jw019",
-    "subject": "JW",
-    "level": "Easy",
-    "type": "text",
-    "prompt": "According to JW.org, Jehovah’s Witnesses are known for talking to people about God’s Kingdom and whom?",
-    "answer": "Jehovah God",
-    "options": [
-      "Jehovah God",
-      "Caesar",
-      "Goliath",
-      "Pharaoh"
-    ],
-    "emoji": "🚪",
-    "image": null
-  },
-  {
-    "id": "jw020",
-    "subject": "JW",
-    "level": "Easy",
-    "type": "text",
-    "prompt": "What do Jehovah’s Witnesses call their meeting places?",
-    "answer": "Kingdom Halls",
-    "options": [
-      "Kingdom Halls",
-      "Castles",
-      "Stadiums",
-      "Museums"
-    ],
-    "emoji": "🏛️",
-    "image": null
-  },
-  {
-    "id": "jw021",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "According to JW.org, what does the name Jehovah identify him as?",
-    "answer": "The God of the Bible and Creator",
-    "options": [
-      "The God of the Bible and Creator",
-      "A Roman ruler",
-      "A city in Israel",
-      "One of the apostles"
-    ],
-    "emoji": "📖",
-    "image": null
-  },
-  {
-    "id": "jw022",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "JW.org says Jehovah’s Witnesses are Christians who try to imitate whom?",
-    "answer": "Jesus Christ",
-    "options": [
-      "Jesus Christ",
-      "Pharaoh",
-      "Nebuchadnezzar",
-      "Herod"
-    ],
-    "emoji": "✝️",
-    "image": null
-  },
-  {
-    "id": "jw023",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Which JW.org study publication is an interactive Bible course?",
-    "answer": "Enjoy Life Forever!",
-    "options": [
-      "Enjoy Life Forever!",
-      "The Flag Book",
-      "Songs of Rome",
-      "Ancient Maps"
-    ],
-    "emoji": "📘",
-    "image": null
-  },
-  {
-    "id": "jw024",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "JW.org Bible Questions Answered covers topics such as God, Jesus, prayer, family, suffering, and what else?",
-    "answer": "Life and death",
-    "options": [
-      "Life and death",
-      "Car repair",
-      "Stock prices",
-      "Weather forecasts"
-    ],
-    "emoji": "❓",
-    "image": null
-  },
-  {
-    "id": "jw025",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "In JW.org’s description, the Bible Teachings section says the Bible offers practical advice based on which verses?",
-    "answer": "2 Timothy 3:16, 17",
-    "options": [
-      "2 Timothy 3:16, 17",
-      "John 11:35",
-      "Genesis 1:1",
-      "Psalm 23:1"
-    ],
-    "emoji": "📝",
-    "image": null
-  },
-  {
-    "id": "jw026",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Which Bible book records Jesus’ Sermon on the Mount?",
-    "answer": "Matthew",
-    "options": [
-      "Matthew",
-      "Esther",
-      "Malachi",
-      "Philemon"
-    ],
-    "emoji": "⛰️",
-    "image": null
-  },
-  {
-    "id": "jw027",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Which apostle was formerly known as Saul?",
-    "answer": "Paul",
-    "options": [
-      "Paul",
-      "Peter",
-      "John",
-      "James"
-    ],
-    "emoji": "🛤️",
-    "image": null
-  },
-  {
-    "id": "jw028",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Which Bible book contains many wise sayings often quoted in JW.org articles?",
-    "answer": "Proverbs",
-    "options": [
-      "Proverbs",
-      "Acts",
-      "Leviticus",
-      "Mark"
-    ],
-    "emoji": "💡",
-    "image": null
-  },
-  {
-    "id": "jw029",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Which Bible character was known for great wisdom?",
-    "answer": "Solomon",
-    "options": [
-      "Solomon",
-      "Esau",
-      "Barabbas",
-      "Felix"
-    ],
-    "emoji": "👑",
-    "image": null
-  },
-  {
-    "id": "jw030",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Who was Ruth’s mother-in-law?",
-    "answer": "Naomi",
-    "options": [
-      "Naomi",
-      "Miriam",
-      "Rachel",
-      "Deborah"
-    ],
-    "emoji": "🌾",
-    "image": null
-  },
-  {
-    "id": "jw031",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Which prophet confronted the prophets of Baal on Mount Carmel?",
-    "answer": "Elijah",
-    "options": [
-      "Elijah",
-      "Ezekiel",
-      "Hosea",
-      "Amos"
-    ],
-    "emoji": "🔥",
-    "image": null
-  },
-  {
-    "id": "jw032",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "In the Bible, who interpreted Pharaoh’s dreams in Egypt?",
-    "answer": "Joseph",
-    "options": [
-      "Joseph",
-      "Joshua",
-      "Jonathan",
-      "Jude"
-    ],
-    "emoji": "🌙",
-    "image": null
-  },
-  {
-    "id": "jw033",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "According to JW.org, Jehovah’s Witnesses use their website to provide online access to the Bible and what else?",
-    "answer": "Bible-based publications",
-    "options": [
-      "Bible-based publications",
-      "Movie tickets",
-      "Bank accounts",
-      "Restaurant menus"
-    ],
-    "emoji": "🌐",
-    "image": null
-  },
-  {
-    "id": "jw034",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "What Bible term refers to the good news Jesus preached?",
-    "answer": "The Kingdom of God",
-    "options": [
-      "The Kingdom of God",
-      "The Roman Empire",
-      "The city gates",
-      "The market price"
-    ],
-    "emoji": "👑",
-    "image": null
-  },
-  {
-    "id": "jw035",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Which Gospel writer was a physician?",
-    "answer": "Luke",
-    "options": [
-      "Luke",
-      "Matthew",
-      "Mark",
-      "John"
-    ],
-    "emoji": "🩺",
-    "image": null
-  },
-  {
-    "id": "jw036",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Which Bible book describes the fruitage of the spirit?",
-    "answer": "Galatians",
-    "options": [
-      "Galatians",
-      "Jonah",
-      "Joshua",
-      "Ezra"
-    ],
-    "emoji": "🍇",
-    "image": null
-  },
-  {
-    "id": "jw037",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Which quality is listed as part of the fruitage of the spirit in Galatians 5?",
-    "answer": "Kindness",
-    "options": [
-      "Kindness",
-      "Envy",
-      "Rage",
-      "Greed"
-    ],
-    "emoji": "🌱",
-    "image": null
-  },
-  {
-    "id": "jw038",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "JW.org’s children’s material includes Bible character cards and what else?",
-    "answer": "Activities",
-    "options": [
-      "Activities",
-      "Tax forms",
-      "Car manuals",
-      "Recipe ratings"
-    ],
-    "emoji": "🎲",
-    "image": null
-  },
-  {
-    "id": "jw039",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Which Bible account features Shadrach, Meshach, and Abednego?",
-    "answer": "The fiery furnace",
-    "options": [
-      "The fiery furnace",
-      "The Red Sea crossing",
-      "The walls of Jericho",
-      "The storm on Galilee"
-    ],
-    "emoji": "🔥",
-    "image": null
-  },
-  {
-    "id": "jw040",
-    "subject": "JW",
-    "level": "Medium",
-    "type": "text",
-    "prompt": "Which Bible book begins with the words “In the beginning”?",
-    "answer": "Genesis",
-    "options": [
-      "Genesis",
-      "Matthew",
-      "Acts",
-      "Revelation"
-    ],
-    "emoji": "🌍",
-    "image": null
-  },
-  {
-    "id": "jw041",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "According to JW.org’s FAQ, Jehovah’s Witnesses say they accept which part of the Bible?",
-    "answer": "The entire Bible",
-    "options": [
-      "The entire Bible",
-      "Only Psalms",
-      "Only the Gospels",
-      "Only Proverbs"
-    ],
-    "emoji": "📚",
-    "image": null
-  },
-  {
-    "id": "jw042",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "JW.org explains that some Bible passages are symbolic, citing which Bible book as an example?",
-    "answer": "Revelation",
-    "options": [
-      "Revelation",
-      "Ruth",
-      "Nehemiah",
-      "Haggai"
-    ],
-    "emoji": "🔎",
-    "image": null
-  },
-  {
-    "id": "jw043",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "According to JW.org, why are they known as Jehovah’s Witnesses?",
-    "answer": "They witness, or talk, about Jehovah God and his Kingdom",
-    "options": [
-      "They witness, or talk, about Jehovah God and his Kingdom",
-      "They sell religious souvenirs",
-      "They study only astronomy",
-      "They founded Jerusalem"
-    ],
-    "emoji": "🚪",
-    "image": null
-  },
-  {
-    "id": "jw044",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which Psalm is often cited on JW.org to support the use of God’s name Jehovah?",
-    "answer": "Psalm 83:18",
-    "options": [
-      "Psalm 83:18",
-      "Psalm 1:1",
-      "Psalm 23:4",
-      "Psalm 150:6"
-    ],
-    "emoji": "📖",
-    "image": null
-  },
-  {
-    "id": "jw045",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which verse does JW.org cite when describing Jesus as God’s Son and Savior?",
-    "answer": "John 3:16",
-    "options": [
-      "John 3:16",
-      "Genesis 2:7",
-      "Ecclesiastes 3:1",
-      "Acts 20:35"
-    ],
-    "emoji": "✝️",
-    "image": null
-  },
-  {
-    "id": "jw046",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "According to JW.org, Jehovah’s Witnesses base their beliefs solely on the Bible, citing which verse?",
-    "answer": "2 Timothy 3:16",
-    "options": [
-      "2 Timothy 3:16",
-      "Matthew 5:3",
-      "Romans 12:12",
-      "Psalm 37:11"
-    ],
-    "emoji": "🧠",
-    "image": null
-  },
-  {
-    "id": "jw047",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which Bible book contains the account of Pentecost and the early Christian congregation?",
-    "answer": "Acts",
-    "options": [
-      "Acts",
-      "Numbers",
-      "Job",
-      "Song of Solomon"
-    ],
-    "emoji": "🔥",
-    "image": null
-  },
-  {
-    "id": "jw048",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which minor prophet contains the expression about walking modestly with God?",
-    "answer": "Micah",
-    "options": [
-      "Micah",
-      "Nahum",
-      "Habakkuk",
-      "Zephaniah"
-    ],
-    "emoji": "🚶",
-    "image": null
-  },
-  {
-    "id": "jw049",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which Bible book contains the account of Esther and Mordecai?",
-    "answer": "Esther",
-    "options": [
-      "Esther",
-      "Ezra",
-      "Nehemiah",
-      "Judges"
-    ],
-    "emoji": "👑",
-    "image": null
-  },
-  {
-    "id": "jw050",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which Bible book includes the account of Nehemiah rebuilding Jerusalem’s walls?",
-    "answer": "Nehemiah",
-    "options": [
-      "Nehemiah",
-      "Jeremiah",
-      "Daniel",
-      "Joel"
-    ],
-    "emoji": "🧱",
-    "image": null
-  },
-  {
-    "id": "jw051",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which book contains the words “God is love”?",
-    "answer": "1 John",
-    "options": [
-      "1 John",
-      "3 John",
-      "Jude",
-      "Titus"
-    ],
-    "emoji": "❤️",
-    "image": null
-  },
-  {
-    "id": "jw052",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which Gospel contains the account of Lazarus being resurrected by Jesus?",
-    "answer": "John",
-    "options": [
-      "John",
-      "Mark",
-      "Luke",
-      "Matthew"
-    ],
-    "emoji": "🪦",
-    "image": null
-  },
-  {
-    "id": "jw053",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which Bible book includes the account of Paul’s shipwreck on Malta?",
-    "answer": "Acts",
-    "options": [
-      "Acts",
-      "Romans",
-      "Hebrews",
-      "James"
-    ],
-    "emoji": "⛵",
-    "image": null
-  },
-  {
-    "id": "jw054",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which king saw the handwriting on the wall in Daniel chapter 5?",
-    "answer": "Belshazzar",
-    "options": [
-      "Belshazzar",
-      "Ahab",
-      "Saul",
-      "Rehoboam"
-    ],
-    "emoji": "✍️",
-    "image": null
-  },
-  {
-    "id": "jw055",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which Bible book contains the account of Gideon and the 300 men?",
-    "answer": "Judges",
-    "options": [
-      "Judges",
-      "Joshua",
-      "1 Samuel",
-      "2 Kings"
-    ],
-    "emoji": "🏺",
-    "image": null
-  },
-  {
-    "id": "jw056",
-    "subject": "JW",
-    "level": "Hard",
-    "type": "text",
-    "prompt": "Which Bible book contains the account of Hannah praying for a son?",
-    "answer": "1 Samuel",
-    "options": [
-      "1 Samuel",
-      "2 Samuel",
-      "1 Kings",
-      "2 Chronicles"
+      "Holy",
+      "Funny",
+      "Secret",
+      "Unimportant"
     ],
     "emoji": "🙏",
     "image": null
   },
   {
-    "id": "jw057",
+    "id": "q0466",
     "subject": "JW",
-    "level": "Hard",
+    "level": "Easy",
     "type": "text",
-    "prompt": "Which Bible book includes Paul’s counsel about the “fruitage of the spirit”?",
-    "answer": "Galatians",
+    "prompt": "What does JW.org say Jehovah wants for people?",
+    "answer": "A happy future",
     "options": [
-      "Galatians",
-      "Ephesians",
-      "Philippians",
-      "Colossians"
+      "A happy future",
+      "Endless sickness",
+      "No resurrection",
+      "No family life"
     ],
-    "emoji": "🍇",
+    "emoji": "🌈",
     "image": null
   },
   {
-    "id": "jw058",
+    "id": "q0467",
     "subject": "JW",
-    "level": "Hard",
+    "level": "Easy",
     "type": "text",
-    "prompt": "Which Bible book includes the phrase “faith without works is dead”?",
-    "answer": "James",
+    "prompt": "According to JW.org, what does the Bible help families learn?",
+    "answer": "Good guidance",
     "options": [
-      "James",
-      "Jude",
-      "Romans",
-      "Hebrews"
+      "Good guidance",
+      "Magic tricks",
+      "Car repair only",
+      "Weather reports"
     ],
-    "emoji": "🛠️",
+    "emoji": "👨‍👩‍👧‍👦",
     "image": null
   },
   {
-    "id": "jw059",
+    "id": "q0468",
     "subject": "JW",
-    "level": "Hard",
+    "level": "Easy",
     "type": "text",
-    "prompt": "Which Bible book records the account of the Queen of Sheba visiting Solomon?",
-    "answer": "1 Kings",
+    "prompt": "What type of videos can families find on JW.org?",
+    "answer": "Bible-based videos",
     "options": [
-      "1 Kings",
-      "2 Kings",
-      "Ezra",
-      "Lamentations"
+      "Bible-based videos",
+      "Only adverts",
+      "Only sport clips",
+      "Only cooking shows"
     ],
-    "emoji": "🐪",
+    "emoji": "🎬",
     "image": null
   },
   {
-    "id": "jw060",
+    "id": "q0469",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what did Jesus willingly give?",
+    "answer": "His life",
+    "options": [
+      "His life",
+      "A palace",
+      "A ship",
+      "A sword"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0470",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What is one subject taught on JW.org?",
+    "answer": "Bible teachings",
+    "options": [
+      "Bible teachings",
+      "Gambling tips",
+      "Celebrity gossip",
+      "Treasure maps"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0471",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What does JW.org say Jehovah remembers for resurrection?",
+    "answer": "Those in his memory",
+    "options": [
+      "Those in his memory",
+      "Only famous people",
+      "Only kings",
+      "Only soldiers"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0472",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what quality did Abraham show?",
+    "answer": "Faith",
+    "options": [
+      "Faith",
+      "Greed",
+      "Cowardice",
+      "Pride"
+    ],
+    "emoji": "⭐",
+    "image": null
+  },
+  {
+    "id": "q0473",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "In JW.org material, what is creation often used to show?",
+    "answer": "Jehovah’s wisdom and power",
+    "options": [
+      "Jehovah’s wisdom and power",
+      "That life has no purpose",
+      "That prayer is useless",
+      "That kindness is bad"
+    ],
+    "emoji": "🌍",
+    "image": null
+  },
+  {
+    "id": "q0474",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what is baptism connected with?",
+    "answer": "Serving God as a disciple",
+    "options": [
+      "Serving God as a disciple",
+      "Winning a race",
+      "Buying a house",
+      "Becoming a musician"
+    ],
+    "emoji": "💧",
+    "image": null
+  },
+  {
+    "id": "q0475",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What does JW.org identify as God’s written Word?",
+    "answer": "The Bible",
+    "options": [
+      "The Bible",
+      "A newspaper",
+      "A calendar",
+      "A travel guide"
+    ],
+    "emoji": "📘",
+    "image": null
+  },
+  {
+    "id": "q0476",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "Who is described on JW.org as the only true God?",
+    "answer": "Jehovah",
+    "options": [
+      "Jehovah",
+      "Caesar",
+      "Herod",
+      "Pharaoh"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0477",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what did Jesus preach about?",
+    "answer": "God’s Kingdom",
+    "options": [
+      "God’s Kingdom",
+      "Roman taxes only",
+      "Greek games",
+      "A new marketplace"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "q0478",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what should Christians show to others?",
+    "answer": "Love",
+    "options": [
+      "Love",
+      "Jealousy",
+      "Cruelty",
+      "Dishonesty"
+    ],
+    "emoji": "❤️",
+    "image": null
+  },
+  {
+    "id": "q0479",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What is the name of the JW.org section with material for young ones?",
+    "answer": "Children",
+    "options": [
+      "Children",
+      "Cars",
+      "Weather",
+      "Finance"
+    ],
+    "emoji": "🧒",
+    "image": null
+  },
+  {
+    "id": "q0480",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what can Bible study help people know?",
+    "answer": "Jehovah better",
+    "options": [
+      "Jehovah better",
+      "Only ancient coins",
+      "Only sports scores",
+      "Only ocean maps"
+    ],
+    "emoji": "📚",
+    "image": null
+  },
+  {
+    "id": "q0481",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What quality is encouraged in JW.org family material?",
+    "answer": "Obedience",
+    "options": [
+      "Obedience",
+      "Stealing",
+      "Lying",
+      "Bullying"
+    ],
+    "emoji": "✅",
+    "image": null
+  },
+  {
+    "id": "q0482",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, who made the earth ready for life?",
+    "answer": "Jehovah",
+    "options": [
+      "Jehovah",
+      "Caesar",
+      "Nebuchadnezzar",
+      "Pilate"
+    ],
+    "emoji": "🌎",
+    "image": null
+  },
+  {
+    "id": "q0483",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, who was Jesus’ mother?",
+    "answer": "Mary",
+    "options": [
+      "Mary",
+      "Martha",
+      "Sarah",
+      "Esther"
+    ],
+    "emoji": "👶",
+    "image": null
+  },
+  {
+    "id": "q0484",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, where was Jesus born?",
+    "answer": "In Bethlehem",
+    "options": [
+      "In Bethlehem",
+      "In Rome",
+      "In Babylon",
+      "In Athens"
+    ],
+    "emoji": "👶",
+    "image": null
+  },
+  {
+    "id": "q0485",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what good news did Jesus teach?",
+    "answer": "The Kingdom good news",
+    "options": [
+      "The Kingdom good news",
+      "Only local news",
+      "A war report",
+      "A shopping list"
+    ],
+    "emoji": "📰",
+    "image": null
+  },
+  {
+    "id": "q0486",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what is one reason to pray?",
+    "answer": "To thank Jehovah",
+    "options": [
+      "To thank Jehovah",
+      "To impress people",
+      "To win arguments",
+      "To order food"
+    ],
+    "emoji": "🙏",
+    "image": null
+  },
+  {
+    "id": "q0487",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what does Jehovah invite people to do?",
+    "answer": "Draw close to him",
+    "options": [
+      "Draw close to him",
+      "Ignore him",
+      "Forget the Bible",
+      "Stop praying"
+    ],
+    "emoji": "🤝",
+    "image": null
+  },
+  {
+    "id": "q0488",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "Which book of the Bible tells about creation at the start?",
+    "answer": "Genesis",
+    "options": [
+      "Genesis",
+      "Acts",
+      "Revelation",
+      "Romans"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0489",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "Which Gospel is often linked with John 3:16 on JW.org?",
+    "answer": "John",
+    "options": [
+      "John",
+      "Exodus",
+      "Psalms",
+      "Genesis"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0490",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what does the Bible promise about the earth?",
+    "answer": "A peaceful future",
+    "options": [
+      "A peaceful future",
+      "Permanent ruin",
+      "No people ever",
+      "Only deserts"
+    ],
+    "emoji": "🌿",
+    "image": null
+  },
+  {
+    "id": "q0491",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what should children learn to do?",
+    "answer": "Make Jehovah happy",
+    "options": [
+      "Make Jehovah happy",
+      "Be unkind",
+      "Never listen",
+      "Hide mistakes"
+    ],
+    "emoji": "🧒",
+    "image": null
+  },
+  {
+    "id": "q0492",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, who created the animals?",
+    "answer": "Jehovah",
+    "options": [
+      "Jehovah",
+      "Noah",
+      "Adam",
+      "Solomon"
+    ],
+    "emoji": "🐘",
+    "image": null
+  },
+  {
+    "id": "q0493",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "According to JW.org, what does Jehovah know about the stars?",
+    "answer": "He knows them by name",
+    "options": [
+      "He knows them by name",
+      "He cannot count them",
+      "He made none",
+      "He dislikes them"
+    ],
+    "emoji": "⭐",
+    "image": null
+  },
+  {
+    "id": "q0494",
+    "subject": "JW",
+    "level": "Easy",
+    "type": "text",
+    "prompt": "What is one language JW.org is available in?",
+    "answer": "English",
+    "options": [
+      "English",
+      "Only Latin",
+      "Only Greek",
+      "Only Hebrew"
+    ],
+    "emoji": "🌐",
+    "image": null
+  },
+  {
+    "id": "q0495",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does the ransom deliver humankind from?",
+    "answer": "Sin and death",
+    "options": [
+      "Sin and death",
+      "Hunger only",
+      "Taxes only",
+      "Bad weather"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0496",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which scripture does JW.org often connect with Jesus giving his life as a ransom?",
+    "answer": "Matthew 20:28",
+    "options": [
+      "Matthew 20:28",
+      "Genesis 1:1",
+      "Psalm 23:1",
+      "Revelation 21:4"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0497",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does Ephesians 1:7 relate to?",
+    "answer": "Release by ransom",
+    "options": [
+      "Release by ransom",
+      "Building the ark",
+      "David’s harp",
+      "Daniel’s lions"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0498",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what did Jehovah provide by sending his Son?",
+    "answer": "The ransom",
+    "options": [
+      "The ransom",
+      "The Flood",
+      "The Law tablets",
+      "The temple"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0499",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does John 3:16 show about God?",
+    "answer": "His love for the world",
+    "options": [
+      "His love for the world",
+      "His need for advice",
+      "His fear of rulers",
+      "His lack of power"
+    ],
+    "emoji": "❤️",
+    "image": null
+  },
+  {
+    "id": "q0500",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does the resurrection hope mean?",
+    "answer": "The dead can live again",
+    "options": [
+      "The dead can live again",
+      "The dead become angels",
+      "There is no future",
+      "Only memories matter"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0501",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "Which words of Jesus are used on JW.org to describe resurrection hope?",
+    "answer": "All those in the memorial tombs",
+    "options": [
+      "All those in the memorial tombs",
+      "Render Caesar’s things",
+      "You are the salt",
+      "Let your light shine"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0502",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, why can Jehovah resurrect a person?",
+    "answer": "He can remember them perfectly",
+    "options": [
+      "He can remember them perfectly",
+      "He guesses who they were",
+      "He asks historians only",
+      "He cannot do it"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0503",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "What does JW.org say is most important in prayer?",
+    "answer": "Jehovah and his will",
+    "options": [
+      "Jehovah and his will",
+      "Our fame",
+      "Winning prizes",
+      "Getting rich"
+    ],
+    "emoji": "🙏",
+    "image": null
+  },
+  {
+    "id": "q0504",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "In the model prayer, what comes before asking for daily needs?",
+    "answer": "God’s name and Kingdom",
+    "options": [
+      "God’s name and Kingdom",
+      "A travel plan",
+      "A family tree",
+      "A military report"
+    ],
+    "emoji": "🙏",
+    "image": null
+  },
+  {
+    "id": "q0505",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does it mean to sanctify God’s name?",
+    "answer": "Treat it as holy",
+    "options": [
+      "Treat it as holy",
+      "Hide it forever",
+      "Use it carelessly",
+      "Change it often"
+    ],
+    "emoji": "🙏",
+    "image": null
+  },
+  {
+    "id": "q0506",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what is God’s Kingdom made up of?",
+    "answer": "Jesus and chosen co-rulers",
+    "options": [
+      "Jesus and chosen co-rulers",
+      "A sports league",
+      "All human governments",
+      "A committee of angels only"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "q0507",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what will God’s Kingdom do for the earth?",
+    "answer": "Carry out God’s will",
+    "options": [
+      "Carry out God’s will",
+      "End prayer",
+      "Remove the Bible",
+      "Serve Roman rulers"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "q0508",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what standard do Jehovah’s Witnesses use for beliefs?",
+    "answer": "The Bible",
+    "options": [
+      "The Bible",
+      "Human tradition",
+      "Political manifestos",
+      "Ancient myths"
+    ],
+    "emoji": "📚",
+    "image": null
+  },
+  {
+    "id": "q0509",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, why are they called Jehovah’s Witnesses?",
+    "answer": "They witness about Jehovah",
+    "options": [
+      "They witness about Jehovah",
+      "They live in one city",
+      "They all have the same surname",
+      "They study weather"
+    ],
+    "emoji": "🌐",
+    "image": null
+  },
+  {
+    "id": "q0510",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what doctrine do Jehovah’s Witnesses not teach?",
+    "answer": "The Trinity",
+    "options": [
+      "The Trinity",
+      "The resurrection",
+      "Prayer",
+      "Creation"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0511",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, how do Jehovah’s Witnesses view Jesus compared with Almighty God?",
+    "answer": "Jesus is not Almighty God",
+    "options": [
+      "Jesus is not Almighty God",
+      "Jesus is Caesar",
+      "Jesus was never real",
+      "Jesus is a myth only"
+    ],
+    "emoji": "✨",
+    "image": null
+  },
+  {
+    "id": "q0512",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what did God accept from Jesus?",
+    "answer": "His perfect human life as a ransom",
+    "options": [
+      "His perfect human life as a ransom",
+      "A palace",
+      "A Roman coin",
+      "A fishing boat"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0513",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what proves faith is alive?",
+    "answer": "A person’s works",
+    "options": [
+      "A person’s works",
+      "Their clothes only",
+      "Their age",
+      "Their house size"
+    ],
+    "emoji": "✅",
+    "image": null
+  },
+  {
+    "id": "q0514",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, baptism is connected with what command?",
+    "answer": "Make disciples",
+    "options": [
+      "Make disciples",
+      "Build a tower",
+      "Collect taxes",
+      "Fight Rome"
+    ],
+    "emoji": "💧",
+    "image": null
+  },
+  {
+    "id": "q0515",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, why was Noah saved through the Flood?",
+    "answer": "He obeyed Jehovah",
+    "options": [
+      "He obeyed Jehovah",
+      "He was a king",
+      "He owned Egypt",
+      "He was strongest"
+    ],
+    "emoji": "🚢",
+    "image": null
+  },
+  {
+    "id": "q0516",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, what did Jehovah give Moses for Israel?",
+    "answer": "The Law",
+    "options": [
+      "The Law",
+      "A palace",
+      "A golden image",
+      "A Roman road"
+    ],
+    "emoji": "📜",
+    "image": null
+  },
+  {
+    "id": "q0517",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, why did David defeat Goliath?",
+    "answer": "He trusted Jehovah",
+    "options": [
+      "He trusted Jehovah",
+      "He wore Saul’s armour perfectly",
+      "He was a giant",
+      "He had a chariot"
+    ],
+    "emoji": "🪨",
+    "image": null
+  },
+  {
+    "id": "q0518",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, why was Daniel protected?",
+    "answer": "He remained faithful to Jehovah",
+    "options": [
+      "He remained faithful to Jehovah",
+      "He became Pharaoh",
+      "He stopped praying",
+      "He fled Babylon"
+    ],
+    "emoji": "🦁",
+    "image": null
+  },
+  {
+    "id": "q0519",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "In JW.org Bible stories, what lesson is connected with Jonah?",
+    "answer": "Obey Jehovah’s direction",
+    "options": [
+      "Obey Jehovah’s direction",
+      "Run forever",
+      "Hate enemies",
+      "Never preach"
+    ],
+    "emoji": "🐟",
+    "image": null
+  },
+  {
+    "id": "q0520",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does creation reveal about Jehovah?",
+    "answer": "Wisdom and power",
+    "options": [
+      "Wisdom and power",
+      "Weakness",
+      "Confusion",
+      "Indifference"
+    ],
+    "emoji": "🌍",
+    "image": null
+  },
+  {
+    "id": "q0521",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does Jehovah want for obedient mankind?",
+    "answer": "Life in harmony with his purpose",
+    "options": [
+      "Life in harmony with his purpose",
+      "Permanent conflict",
+      "No earth",
+      "No hope"
+    ],
+    "emoji": "🌿",
+    "image": null
+  },
+  {
+    "id": "q0522",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, who is the primary part of Abraham’s promised seed?",
+    "answer": "Jesus Christ",
+    "options": [
+      "Jesus Christ",
+      "Herod",
+      "Pilate",
+      "Goliath"
+    ],
+    "emoji": "⭐",
+    "image": null
+  },
+  {
+    "id": "q0523",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does Genesis 22:18 relate to?",
+    "answer": "Blessing through Abraham’s offspring",
+    "options": [
+      "Blessing through Abraham’s offspring",
+      "The birth of Moses",
+      "The fall of Jericho",
+      "Paul’s voyage"
+    ],
+    "emoji": "⭐",
+    "image": null
+  },
+  {
+    "id": "q0524",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what is the Bible’s message called?",
+    "answer": "Good news",
+    "options": [
+      "Good news",
+      "Bad news",
+      "Secret codes",
+      "Roman law"
+    ],
+    "emoji": "📰",
+    "image": null
+  },
+  {
+    "id": "q0525",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what quality should Christians show in family life?",
+    "answer": "Love",
+    "options": [
+      "Love",
+      "Bitterness",
+      "Pride",
+      "Harshness"
+    ],
+    "emoji": "👨‍👩‍👧‍👦",
+    "image": null
+  },
+  {
+    "id": "q0526",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, why should people be grateful for the ransom?",
+    "answer": "It is God’s precious gift",
+    "options": [
+      "It is God’s precious gift",
+      "It makes people famous",
+      "It removes all choices",
+      "It replaces prayer"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0527",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "What does JW.org say Jesus’ name means?",
+    "answer": "Jehovah Is Salvation",
+    "options": [
+      "Jehovah Is Salvation",
+      "King of Rome",
+      "Great Soldier",
+      "Son of Thunder"
+    ],
+    "emoji": "✨",
+    "image": null
+  },
+  {
+    "id": "q0528",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what assurance does the model prayer give?",
+    "answer": "God’s will cannot be stopped",
+    "options": [
+      "God’s will cannot be stopped",
+      "Humans need no help",
+      "Prayer is pointless",
+      "Earth will vanish"
+    ],
+    "emoji": "🙏",
+    "image": null
+  },
+  {
+    "id": "q0529",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what is a clean conscience linked with?",
+    "answer": "Benefits of the ransom",
+    "options": [
+      "Benefits of the ransom",
+      "Roman citizenship",
+      "Learning music",
+      "Owning land"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0530",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does Jehovah know about billions of stars show?",
+    "answer": "His memory and power",
+    "options": [
+      "His memory and power",
+      "He forgets people",
+      "He cannot resurrect",
+      "He dislikes creation"
+    ],
+    "emoji": "⭐",
+    "image": null
+  },
+  {
+    "id": "q0531",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what is one way to learn about Jehovah?",
+    "answer": "Study the Bible",
+    "options": [
+      "Study the Bible",
+      "Ignore creation",
+      "Avoid prayer",
+      "Never ask questions"
+    ],
+    "emoji": "📚",
+    "image": null
+  },
+  {
+    "id": "q0532",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what should Bible knowledge move a person to do?",
+    "answer": "Apply what they learn",
+    "options": [
+      "Apply what they learn",
+      "Only win quizzes",
+      "Boast to others",
+      "Stop helping people"
+    ],
+    "emoji": "✅",
+    "image": null
+  },
+  {
+    "id": "q0533",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what did Jesus’ resurrection demonstrate?",
+    "answer": "God’s power over death",
+    "options": [
+      "God’s power over death",
+      "Rome’s power",
+      "That death is stronger",
+      "That prayer failed"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0534",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what hope is connected with Isaiah 26:19?",
+    "answer": "The dead will live again",
+    "options": [
+      "The dead will live again",
+      "No one returns",
+      "Only angels live",
+      "Earth disappears"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0535",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what can families use to teach children Bible lessons?",
+    "answer": "Bible-based videos and stories",
+    "options": [
+      "Bible-based videos and stories",
+      "Only adverts",
+      "Only sporting charts",
+      "Only stock prices"
+    ],
+    "emoji": "🎬",
+    "image": null
+  },
+  {
+    "id": "q0536",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "What does JW.org say Jehovah’s Witnesses freely speak about?",
+    "answer": "Jehovah’s loving purposes",
+    "options": [
+      "Jehovah’s loving purposes",
+      "Celebrity gossip",
+      "Political campaigns",
+      "Hidden treasure"
+    ],
+    "emoji": "🌐",
+    "image": null
+  },
+  {
+    "id": "q0537",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does true worship rely on?",
+    "answer": "Bible truth",
+    "options": [
+      "Bible truth",
+      "Human tradition alone",
+      "Personal fame",
+      "Ancient superstition"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0538",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, why did Jesus die?",
+    "answer": "For imperfect mankind",
+    "options": [
+      "For imperfect mankind",
+      "To become Caesar",
+      "To build a temple",
+      "To win a contest"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0539",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does Acts 4:12 relate to in belief summaries?",
+    "answer": "Salvation through Jesus",
+    "options": [
+      "Salvation through Jesus",
+      "The Flood",
+      "The Exodus",
+      "The garden of Eden"
+    ],
+    "emoji": "✨",
+    "image": null
+  },
+  {
+    "id": "q0540",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what must people exercise in Jesus to benefit from his sacrifice?",
+    "answer": "Faith",
+    "options": [
+      "Faith",
+      "Fear of truth",
+      "Disinterest",
+      "Silence only"
+    ],
+    "emoji": "✅",
+    "image": null
+  },
+  {
+    "id": "q0541",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what change is connected with benefiting from the ransom?",
+    "answer": "Repentance and changed conduct",
+    "options": [
+      "Repentance and changed conduct",
+      "More wealth",
+      "A new accent",
+      "A different job only"
+    ],
+    "emoji": "✅",
+    "image": null
+  },
+  {
+    "id": "q0542",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, what does baptism publicly show?",
+    "answer": "A decision to serve Jehovah",
+    "options": [
+      "A decision to serve Jehovah",
+      "A birthday",
+      "A school grade",
+      "A holiday plan"
+    ],
+    "emoji": "💧",
+    "image": null
+  },
+  {
+    "id": "q0543",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, who was sent to Mary before Jesus’ birth?",
+    "answer": "Gabriel",
+    "options": [
+      "Gabriel",
+      "Michael the prophet",
+      "Moses",
+      "Elijah"
+    ],
+    "emoji": "👶",
+    "image": null
+  },
+  {
+    "id": "q0544",
+    "subject": "JW",
+    "level": "Medium",
+    "type": "text",
+    "prompt": "According to JW.org, who visited Jesus when he was a baby?",
+    "answer": "Shepherds",
+    "options": [
+      "Shepherds",
+      "Roman senators",
+      "Pharaohs",
+      "Philistines"
+    ],
+    "emoji": "👶",
+    "image": null
+  },
+  {
+    "id": "q0545",
     "subject": "JW",
     "level": "Hard",
     "type": "text",
-    "prompt": "Which Bible book contains Jesus’ illustration of the good Samaritan?",
-    "answer": "Luke",
+    "prompt": "According to JW.org, what two ideas are joined in Jesus’ sacrifice?",
+    "answer": "Ransom price and deliverance",
     "options": [
-      "Luke",
-      "Matthew",
-      "Mark",
-      "John"
+      "Ransom price and deliverance",
+      "Creation week and Babel",
+      "Daniel and Goliath",
+      "Rome and Egypt"
     ],
-    "emoji": "🫒",
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0546",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "In JW.org explanations, what does Jesus’ shed blood function as?",
+    "answer": "A ransom price",
+    "options": [
+      "A ransom price",
+      "A political symbol",
+      "A temple tax",
+      "A Roman passport"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0547",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, which Bible books are cited for the ransom price idea?",
+    "answer": "Ephesians and 1 Peter",
+    "options": [
+      "Ephesians and 1 Peter",
+      "Jonah and Nahum",
+      "Ruth and Esther",
+      "Haggai and Malachi"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0548",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does the ransom make possible for those chosen to rule with Christ?",
+    "answer": "Heavenly resurrection",
+    "options": [
+      "Heavenly resurrection",
+      "Roman citizenship",
+      "A longer natural life only",
+      "Ownership of Jerusalem"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "q0549",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, how many chosen from mankind rule with Jesus?",
+    "answer": "144,000",
+    "options": [
+      "144,000",
+      "12,000",
+      "7,000",
+      "1,000,000"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "q0550",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what roles do Jesus’ co-rulers have?",
+    "answer": "Kings and priests",
+    "options": [
+      "Kings and priests",
+      "Soldiers and merchants",
+      "Scribes and sailors",
+      "Farmers and judges only"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "q0551",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, how long will Jesus and his co-rulers rule over the earth?",
+    "answer": "A thousand years",
+    "options": [
+      "A thousand years",
+      "Forty days",
+      "Seventy weeks",
+      "Ten years"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "q0552",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what is the primary part of the Genesis 22:18 seed?",
+    "answer": "Jesus Christ",
+    "options": [
+      "Jesus Christ",
+      "Isaac only",
+      "Abraham only",
+      "All angels"
+    ],
+    "emoji": "⭐",
+    "image": null
+  },
+  {
+    "id": "q0553",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what was Abraham told his seed would be like in number?",
+    "answer": "Stars and sand",
+    "options": [
+      "Stars and sand",
+      "One tree",
+      "Seven stones",
+      "Twelve gates only"
+    ],
+    "emoji": "⭐",
+    "image": null
+  },
+  {
+    "id": "q0554",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does Jehovah’s promise to Abraham support?",
+    "answer": "A blessing for mankind",
+    "options": [
+      "A blessing for mankind",
+      "A Roman victory",
+      "A Greek philosophy",
+      "A tax system"
+    ],
+    "emoji": "⭐",
+    "image": null
+  },
+  {
+    "id": "q0555",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does “Jehovah Is Salvation” refer to?",
+    "answer": "The meaning of Jesus’ name",
+    "options": [
+      "The meaning of Jesus’ name",
+      "The meaning of Moses’ name",
+      "The name of Eden",
+      "The title of a Roman official"
+    ],
+    "emoji": "✨",
+    "image": null
+  },
+  {
+    "id": "q0556",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what is reflected in the model prayer?",
+    "answer": "Jehovah’s purpose for obedient mankind",
+    "options": [
+      "Jehovah’s purpose for obedient mankind",
+      "A military plan",
+      "A trade agreement",
+      "A temple inventory"
+    ],
+    "emoji": "🙏",
+    "image": null
+  },
+  {
+    "id": "q0557",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what is sanctifying Jehovah’s name linked with?",
+    "answer": "Treating it as holy",
+    "options": [
+      "Treating it as holy",
+      "Making it unknown",
+      "Replacing it",
+      "Using it as slang"
+    ],
+    "emoji": "🙏",
+    "image": null
+  },
+  {
+    "id": "q0558",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what scriptures are connected with God’s unstoppable will?",
+    "answer": "Psalm 135 and Isaiah 46",
+    "options": [
+      "Psalm 135 and Isaiah 46",
+      "Jonah 1 and Ruth 2",
+      "Acts 27 and Philemon",
+      "Haggai 1 and Jude"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0559",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does the resurrection require from Jehovah?",
+    "answer": "Perfect memory of the person",
+    "options": [
+      "Perfect memory of the person",
+      "Guesswork",
+      "Human DNA records only",
+      "A monument"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0560",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "In JW.org’s resurrection explanation, why are the stars mentioned?",
+    "answer": "To illustrate Jehovah’s memory and power",
+    "options": [
+      "To illustrate Jehovah’s memory and power",
+      "To teach astrology",
+      "To replace resurrection hope",
+      "To identify apostles"
+    ],
+    "emoji": "⭐",
+    "image": null
+  },
+  {
+    "id": "q0561",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what phrase from John 5:28 is used for the resurrection?",
+    "answer": "Memorial tombs",
+    "options": [
+      "Memorial tombs",
+      "Narrow gate",
+      "Living water",
+      "Upper room"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0562",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does Isaiah 26:19 support?",
+    "answer": "Dead ones living again",
+    "options": [
+      "Dead ones living again",
+      "The Trinity",
+      "Immortal soul teaching",
+      "Political neutrality"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0563",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does 1 John 4:9,10 show about the ransom?",
+    "answer": "Jehovah sent his Son",
+    "options": [
+      "Jehovah sent his Son",
+      "Moses built the ark",
+      "David wrote Revelation",
+      "Paul entered Eden"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0564",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does 1 John 1:8,9 connect with ransom benefits?",
+    "answer": "Forgiveness and a clean conscience",
+    "options": [
+      "Forgiveness and a clean conscience",
+      "Weather prediction",
+      "Animal creation",
+      "Temple design"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0565",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what Bible standard do Jehovah’s Witnesses reject as a basis for belief?",
+    "answer": "Human tradition as a creed",
+    "options": [
+      "Human tradition as a creed",
+      "The inspired Bible",
+      "Prayer",
+      "Faith in God"
+    ],
+    "emoji": "📚",
+    "image": null
+  },
+  {
+    "id": "q0566",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what do Jehovah’s Witnesses believe about the entire Bible?",
+    "answer": "It is inspired by God",
+    "options": [
+      "It is inspired by God",
+      "It is only myth",
+      "It is mostly politics",
+      "It is obsolete fiction"
+    ],
+    "emoji": "📚",
+    "image": null
+  },
+  {
+    "id": "q0567",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what belief about God is drawn from Deuteronomy 6:4?",
+    "answer": "Jehovah is one Jehovah",
+    "options": [
+      "Jehovah is one Jehovah",
+      "God is a Trinity",
+      "God is unknown",
+      "God is powerless"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0568",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, how is Jesus described in relation to human life?",
+    "answer": "He lived as a perfect man",
+    "options": [
+      "He lived as a perfect man",
+      "He was a Roman senator",
+      "He was never human",
+      "He was Pharaoh"
+    ],
+    "emoji": "✨",
+    "image": null
+  },
+  {
+    "id": "q0569",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what did God kindly accept from Jesus?",
+    "answer": "His life as a ransom",
+    "options": [
+      "His life as a ransom",
+      "His Roman title",
+      "His house",
+      "His fishing net"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0570",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what teaching is specifically denied about the soul?",
+    "answer": "Immortal soul",
+    "options": [
+      "Immortal soul",
+      "Resurrection hope",
+      "Prayer",
+      "God’s Kingdom"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0571",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what is needed in addition to faith to benefit from Jesus’ sacrifice?",
+    "answer": "Changed course of life and baptism",
+    "options": [
+      "Changed course of life and baptism",
+      "Only family tradition",
+      "Only a one-time quiz",
+      "Only owning a Bible"
+    ],
+    "emoji": "✅",
+    "image": null
+  },
+  {
+    "id": "q0572",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does Acts 3:19,20 connect with?",
+    "answer": "Repentance and turning around",
+    "options": [
+      "Repentance and turning around",
+      "Building Babel",
+      "David’s harp",
+      "Noah’s sons"
+    ],
+    "emoji": "✅",
+    "image": null
+  },
+  {
+    "id": "q0573",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what assignment appears in Matthew 28:19,20?",
+    "answer": "Make disciples and baptize",
+    "options": [
+      "Make disciples and baptize",
+      "Build an ark",
+      "Fight Goliath",
+      "Number the stars"
+    ],
+    "emoji": "💧",
+    "image": null
+  },
+  {
+    "id": "q0574",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "In JW.org chronology material, what happened 40 days after Jesus’ resurrection?",
+    "answer": "His ascension",
+    "options": [
+      "His ascension",
+      "His birth",
+      "The Flood began",
+      "Moses received the Law"
+    ],
+    "emoji": "✨",
+    "image": null
+  },
+  {
+    "id": "q0575",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org chronology material, where did Jesus ascend near?",
+    "answer": "Bethany and the Mount of Olives",
+    "options": [
+      "Bethany and the Mount of Olives",
+      "Babylon",
+      "Egypt",
+      "Rome"
+    ],
+    "emoji": "✨",
+    "image": null
+  },
+  {
+    "id": "q0576",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what is one benefit of God’s Kingdom applying the ransom?",
+    "answer": "Relief from sin and death",
+    "options": [
+      "Relief from sin and death",
+      "More human governments",
+      "Permanent war",
+      "No resurrection"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "q0577",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what group rules with Jesus as kings and priests?",
+    "answer": "Chosen from mankind",
+    "options": [
+      "Chosen from mankind",
+      "Roman soldiers",
+      "Egyptian priests",
+      "Philistine giants"
+    ],
+    "emoji": "👑",
+    "image": null
+  },
+  {
+    "id": "q0578",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what scripture pair mentions kings and priests with Christ?",
+    "answer": "Revelation 5 and 14",
+    "options": [
+      "Revelation 5 and 14",
+      "Genesis 1 and 2",
+      "Ruth 1 and 2",
+      "Jonah 3 and 4"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0579",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does the ransom bring to Jehovah’s name?",
+    "answer": "Honor and glory",
+    "options": [
+      "Honor and glory",
+      "Shame",
+      "Confusion",
+      "Silence"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0580",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what did Jesus’ own name highlight?",
+    "answer": "Jehovah’s salvation",
+    "options": [
+      "Jehovah’s salvation",
+      "Roman power",
+      "Greek wisdom",
+      "Human fame"
+    ],
+    "emoji": "✨",
+    "image": null
+  },
+  {
+    "id": "q0581",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what is the “perfect present” from the Father?",
+    "answer": "Jesus’ ransom",
+    "options": [
+      "Jesus’ ransom",
+      "The ark",
+      "The temple",
+      "The Red Sea"
+    ],
+    "emoji": "🎁",
+    "image": null
+  },
+  {
+    "id": "q0582",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what is the resurrection article’s answer to whether Jehovah can remember people?",
+    "answer": "Yes, perfectly",
+    "options": [
+      "Yes, perfectly",
+      "No",
+      "Only partly",
+      "Only famous names"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0583",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, why is creation evidence meaningful?",
+    "answer": "It displays Jehovah’s qualities",
+    "options": [
+      "It displays Jehovah’s qualities",
+      "It replaces the Bible",
+      "It forbids prayer",
+      "It disproves purpose"
+    ],
+    "emoji": "🌍",
+    "image": null
+  },
+  {
+    "id": "q0584",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what qualities are linked with creation in study questions?",
+    "answer": "Power, wisdom, and understanding",
+    "options": [
+      "Power, wisdom, and understanding",
+      "Fear, greed, and pride",
+      "Chance and confusion",
+      "Weakness and doubt"
+    ],
+    "emoji": "🌍",
+    "image": null
+  },
+  {
+    "id": "q0585",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what type of material is in its online video library?",
+    "answer": "Bible-based videos for families, teens, and children",
+    "options": [
+      "Bible-based videos for families, teens, and children",
+      "Only financial adverts",
+      "Only car reviews",
+      "Only political speeches"
+    ],
+    "emoji": "🎬",
+    "image": null
+  },
+  {
+    "id": "q0586",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what is a core reason Witnesses speak publicly?",
+    "answer": "To witness about Jehovah",
+    "options": [
+      "To witness about Jehovah",
+      "To promote themselves",
+      "To sell politics",
+      "To become famous"
+    ],
+    "emoji": "🌐",
+    "image": null
+  },
+  {
+    "id": "q0587",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what is the source of Bible teachings on the site?",
+    "answer": "The Bible",
+    "options": [
+      "The Bible",
+      "Unverified legends",
+      "Celebrity opinion",
+      "Roman law only"
+    ],
+    "emoji": "📖",
+    "image": null
+  },
+  {
+    "id": "q0588",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does Jehovah’s purpose include for the earth?",
+    "answer": "His will being done everywhere",
+    "options": [
+      "His will being done everywhere",
+      "Earth abandoned forever",
+      "No resurrection",
+      "Only heaven populated"
+    ],
+    "emoji": "🌿",
+    "image": null
+  },
+  {
+    "id": "q0589",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does the Kingdom petition ask?",
+    "answer": "Let your Kingdom come",
+    "options": [
+      "Let your Kingdom come",
+      "Let Rome rule",
+      "Let wealth come first",
+      "Let fame be sought"
+    ],
+    "emoji": "🙏",
+    "image": null
+  },
+  {
+    "id": "q0590",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what shows Jesus also loves humans?",
+    "answer": "He willingly died for us",
+    "options": [
+      "He willingly died for us",
+      "He avoided sacrifice",
+      "He sought politics",
+      "He ignored people"
+    ],
+    "emoji": "❤️",
+    "image": null
+  },
+  {
+    "id": "q0591",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what is the Bible’s view of death as shown by resurrection hope?",
+    "answer": "Death can be undone by God",
+    "options": [
+      "Death can be undone by God",
+      "Death is stronger than God",
+      "No one is remembered",
+      "Only legends remain"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0592",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does Jehovah’s memory include?",
+    "answer": "Everything needed to restore a person",
+    "options": [
+      "Everything needed to restore a person",
+      "Only names",
+      "Only dates",
+      "Only locations"
+    ],
+    "emoji": "🌅",
+    "image": null
+  },
+  {
+    "id": "q0593",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what does Bible-based faith produce?",
+    "answer": "Actions that prove faith is alive",
+    "options": [
+      "Actions that prove faith is alive",
+      "No conduct changes",
+      "No responsibility",
+      "Only private opinion"
+    ],
+    "emoji": "✅",
+    "image": null
+  },
+  {
+    "id": "q0594",
+    "subject": "JW",
+    "level": "Hard",
+    "type": "text",
+    "prompt": "According to JW.org, what relationship does prayer support?",
+    "answer": "A close relationship with Jehovah",
+    "options": [
+      "A close relationship with Jehovah",
+      "Competition with others",
+      "Political authority",
+      "Financial success only"
+    ],
+    "emoji": "🙏",
     "image": null
   }
 ]

@@ -29,7 +29,9 @@
     newAchievements: byId('newAchievements'),
     againBtn: byId('againBtn'),
     leaderboard: byId('leaderboard'),
-    themeBtn: byId('themeBtn')
+    themeBtn: byId('themeBtn'),
+    soundBtn: byId('soundBtn'),
+    volume: byId('volume')
   };
 
   const missing = Object.entries(els).filter(([, el]) => !el).map(([id]) => id);
@@ -52,6 +54,8 @@
   state.achievements ??= [];
   state.games ??= 0;
   state.best ??= 0;
+  state.soundOn ??= true;
+  state.volume ??= 0.55;
 
   function save() {
     localStorage.setItem(LS, JSON.stringify(state));
@@ -70,22 +74,103 @@
     return arr;
   }
 
+
+
+  let audioContext = null;
+
+  function getAudioContext() {
+    if (!state.soundOn) return null;
+    const AudioCtx = window.AudioContext || window.webkitAudioContext;
+    if (!AudioCtx) return null;
+    audioContext ??= new AudioCtx();
+    if (audioContext.state === 'suspended') audioContext.resume().catch(() => {});
+    return audioContext;
+  }
+
+  function tone(freq, start, duration, type = 'sine', gain = 0.16) {
+    const ctx = getAudioContext();
+    if (!ctx) return;
+    const osc = ctx.createOscillator();
+    const vol = ctx.createGain();
+    osc.type = type;
+    osc.frequency.setValueAtTime(freq, ctx.currentTime + start);
+    vol.gain.setValueAtTime(0.0001, ctx.currentTime + start);
+    vol.gain.exponentialRampToValueAtTime(Math.max(0.0001, gain * state.volume), ctx.currentTime + start + 0.015);
+    vol.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + start + duration);
+    osc.connect(vol).connect(ctx.destination);
+    osc.start(ctx.currentTime + start);
+    osc.stop(ctx.currentTime + start + duration + 0.03);
+  }
+
+  function playSound(name) {
+    if (!state.soundOn) return;
+    if (name === 'start') {
+      tone(523.25, 0, .12, 'triangle'); tone(659.25, .11, .12, 'triangle'); tone(783.99, .22, .18, 'triangle');
+    } else if (name === 'correct') {
+      tone(659.25, 0, .10, 'sine'); tone(880, .09, .16, 'sine');
+    } else if (name === 'wrong') {
+      tone(220, 0, .18, 'sawtooth', .08); tone(164.81, .13, .22, 'sawtooth', .07);
+    } else if (name === 'finish') {
+      tone(523.25, 0, .12, 'triangle'); tone(659.25, .12, .12, 'triangle'); tone(783.99, .24, .12, 'triangle'); tone(1046.5, .38, .35, 'triangle');
+    }
+  }
+
+  function renderSoundControls() {
+    els.soundBtn.textContent = state.soundOn ? '🔊 Sound on' : '🔇 Sound off';
+    els.volume.value = String(Math.round((state.volume ?? 0.55) * 100));
+  }
+
+  function normaliseText(value) {
+    return String(value || '')
+      .toLowerCase()
+      .replace(/[“”]/g, '"')
+      .replace(/[‘’]/g, "'")
+      .replace(/[^a-z0-9]+/g, ' ')
+      .trim();
+  }
+
   function makeQuestionKey(q) {
-    return `${q.subject || ''}|${q.level || ''}|${String(q.prompt || '').trim().toLowerCase()}|${String(q.answer || '').trim().toLowerCase()}|${q.image || ''}`;
+    const subject = normaliseText(q.subject);
+    const prompt = normaliseText(q.prompt);
+    const answer = normaliseText(q.answer);
+    const image = normaliseText(q.image);
+    if (image) return `${subject}|image:${image}|answer:${answer}`;
+    return `${subject}|prompt:${prompt}|answer:${answer}`;
+  }
+
+  function makeFuzzyQuestionKey(q) {
+    const prompt = normaliseText(q.prompt)
+      .replace(/^(which|what|who|where|when|how) /, '')
+      .replace(/(the|a|an|of|to|from|is|are|was|were|does|do|did)/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    return `${normaliseText(q.subject)}|${prompt}|${normaliseText(q.answer)}`;
+  }
+
+  function dedupeQuestionBank(pool) {
+    const byQuestion = new Map();
+    const usedFlagAnswers = new Set();
+
+    for (const q of pool) {
+      const key = makeQuestionKey(q);
+      const flagAnswerKey = q.subject === 'Flags' ? normaliseText(q.answer) : null;
+
+      // Do not allow the same flag/country to appear twice in a quiz, even if
+      // the JSON contains a duplicate with the choices in a different order.
+      if (flagAnswerKey && usedFlagAnswers.has(flagAnswerKey)) continue;
+      const fuzzyKey = makeFuzzyQuestionKey(q);
+      if (byQuestion.has(key) || byQuestion.has(fuzzyKey)) continue;
+
+      byQuestion.set(key, q);
+      byQuestion.set(fuzzyKey, q);
+      if (flagAnswerKey) usedFlagAnswers.add(flagAnswerKey);
+    }
+
+    return [...new Set(byQuestion.values())];
   }
 
   function sampleUnique(pool, wanted) {
-    const seen = new Set();
-    const unique = [];
-    for (const q of shuffle(pool)) {
-      const key = makeQuestionKey(q);
-      if (!seen.has(key)) {
-        seen.add(key);
-        unique.push(q);
-      }
-      if (unique.length >= wanted) break;
-    }
-    return unique;
+    return shuffle(dedupeQuestionBank(pool)).slice(0, wanted);
   }
 
   function renderStats() {
@@ -108,6 +193,7 @@
         return r.json();
       });
       renderStats();
+      renderSoundControls();
       renderLeaderboard('local');
     } catch (error) {
       console.error(error);
@@ -134,7 +220,7 @@
       if (finalSeen.has(key)) return false;
       finalSeen.add(key);
       return true;
-    }).map(q => ({ ...q, options: shuffle(q.options || []) }));
+    }).map(q => ({ ...q, options: shuffle([...new Set(q.options || [])]) }));
 
     if (!quiz.length) {
       els.setupMsg.textContent = 'No questions are available for those settings yet.';
@@ -145,6 +231,8 @@
       ? `Only ${quiz.length} unique questions are available for those settings, so this quiz will use ${quiz.length}.`
       : '';
 
+    playSound('start');
+
     idx = 0;
     score = 0;
     startTime = Date.now();
@@ -152,6 +240,7 @@
     els.results.classList.add('hidden');
     els.quiz.classList.remove('hidden');
     clearInterval(timerId);
+    playSound('finish');
     timerId = setInterval(updateTimer, 1000);
     updateTimer();
     showQuestion();
@@ -194,10 +283,12 @@
 
     if (option === correct) {
       score += 1;
+      playSound('correct');
       button.classList.add('correct');
       els.questionCard.classList.add('correct-pop');
       burst('🎉');
     } else {
+      playSound('wrong');
       button.classList.add('wrong');
       els.questionCard.classList.add('wrong-shake');
       burst('✨');
@@ -316,9 +407,25 @@
     els.themeBtn.textContent = document.body.classList.contains('dark') ? '☀️' : '🌙';
   }
 
+
+
+  function toggleSound() {
+    state.soundOn = !state.soundOn;
+    save();
+    renderSoundControls();
+    if (state.soundOn) playSound('correct');
+  }
+
+  function updateVolume() {
+    state.volume = Math.max(0, Math.min(1, Number(els.volume.value) / 100));
+    save();
+  }
+
   els.startBtn.addEventListener('click', startQuiz);
   els.againBtn.addEventListener('click', playAgain);
   els.themeBtn.addEventListener('click', toggleTheme);
+  els.soundBtn.addEventListener('click', toggleSound);
+  els.volume.addEventListener('input', updateVolume);
   document.querySelectorAll('.tabs button').forEach(button => {
     button.addEventListener('click', () => switchLeaderboardTab(button));
   });
