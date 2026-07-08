@@ -150,6 +150,21 @@
 
   function getPool(subject, level) {
     if (subject === 'General Knowledge') return QUESTIONS.filter(q => q.level === level && q.subject !== 'Flags' && q.subject !== 'JW');
+
+    // JW difficulty boost: keep the selected level as the main pool, but blend in
+    // a small number of questions from the next difficulty up. This lifts the
+    // challenge by about 15% without changing the no-repeat logic or shortening
+    // long quizzes.
+    if (subject === 'JW') {
+      const primary = QUESTIONS.filter(q => q.subject === subject && q.level === level);
+      const nextLevel = level === 'Easy' ? 'Medium' : level === 'Medium' ? 'Hard' : null;
+      if (!nextLevel) return primary;
+
+      const boosted = QUESTIONS.filter(q => q.subject === subject && q.level === nextLevel);
+      const boostTarget = Math.max(1, Math.round(primary.length * 0.15));
+      return [...primary, ...shuffle(boosted).slice(0, boostTarget)];
+    }
+
     return QUESTIONS.filter(q => q.level === level && q.subject === subject);
   }
 
